@@ -1,8 +1,11 @@
-import type { Metadata } from "next";
+"use client"
 import { League_Spartan } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/layouts/Navbar";
 import Sidebar from "@/components/layouts/Sidebar";
+import Footer from "@/components/layouts/Footter";
+import { Provider } from "react-redux";
+import { store } from "@/lib/redux/store";
 
 const leagueSpartan = League_Spartan({
   subsets: ["latin"],
@@ -10,31 +13,30 @@ const leagueSpartan = League_Spartan({
   variable: "--font-league-spartan",
 });
 
-export default function RootLayout({
+export default function ReduxProvider({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
     <html lang="en">
-      <body className={`${leagueSpartan.className} h-screen overflow-hidden`}>
-        
-        <header className="fixed top-0 left-0 right-0 h-20 z-50 border-b ">
-          <Navbar />
-        </header>
+      <body className={`${leagueSpartan.className} min-h-screen bg-slate-50 text-black`}>
+        <Provider store={store}>
+          <header className="fixed inset-x-0 top-0 z-50 border-b border-slate-200 bg-white/95 backdrop-blur">
+            <Navbar />
+          </header>
 
-        <div className="flex pt-20 h-full">
-
-          <aside className="w-64 h-full">
+          <div className="pt-16 md:pt-20">
             <Sidebar />
-          </aside>
 
-
-          <main className="flex-1 overflow-y-auto py-4 px-2">
-            {children}
-          </main>
-
-        </div>
+            <main className="min-h-[calc(100vh-4rem)] px-4 py-4 sm:px-5 md:ml-20 md:min-h-[calc(100vh-5rem)] md:px-6 md:py-6 lg:ml-64 lg:px-8">
+              <div className="mx-auto w-full max-w-7xl">{children}</div>
+            </main>
+          </div>
+          <footer>
+            <Footer />
+          </footer>
+        </Provider>
 
       </body>
     </html>

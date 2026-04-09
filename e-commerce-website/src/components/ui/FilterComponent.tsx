@@ -1,5 +1,7 @@
 "use client";
 
+import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
 
 export default function FilterComponent() {
@@ -20,59 +22,51 @@ export default function FilterComponent() {
   const ratingOptions = ["0 Sao", "1 Sao", "2 Sao", "3 Sao", "4 Sao", "5 Sao"];
 
   return (
-    <div className="w-64 border rounded-lg bg-white shadow-sm">
-
-      {/* Header */}
-      <div className="text-center font-semibold py-3 border-b">
+    <div className="w-full max-w-sm rounded-2xl border border-slate-200 bg-white shadow-xl">
+      <div className="border-b border-slate-200 px-5 py-4 text-center text-sm font-semibold uppercase tracking-[0.25em] text-slate-500">
         Filter
       </div>
 
-      <div className="p-4 space-y-6">
-
-        {/* ===== PRICE ===== */}
+      <div className="space-y-6 p-4 sm:p-5">
         <div className="space-y-3">
-          <h3 className="font-medium">Giá</h3>
+          <h3 className="text-sm font-semibold text-slate-900">Giá</h3>
 
           <SelectRow
-            label="Từ:"
+            label="Từ"
             value={priceFrom}
             options={priceOptions}
             onChange={setPriceFrom}
           />
 
           <SelectRow
-            label="Đến:"
+            label="Đến"
             value={priceTo}
             options={priceOptions}
             onChange={setPriceTo}
           />
         </div>
 
-        {/* ===== RATING ===== */}
         <div className="space-y-3">
-          <h3 className="font-medium">Đánh giá</h3>
+          <h3 className="text-sm font-semibold text-slate-900">Đánh giá</h3>
 
           <SelectRow
-            label="Từ:"
+            label="Từ"
             value={ratingFrom}
             options={ratingOptions}
             onChange={setRatingFrom}
           />
 
           <SelectRow
-            label="Đến:"
+            label="Đến"
             value={ratingTo}
             options={ratingOptions}
             onChange={setRatingTo}
           />
         </div>
-
       </div>
     </div>
   );
 }
-
-/* ===================== COMPONENT CON ===================== */
 
 function SelectRow({
   label,
@@ -89,35 +83,37 @@ function SelectRow({
 
   return (
     <div className="relative">
-      <div className="flex items-center justify-between">
-        
-        {/* Label */}
-        <span className="text-sm text-gray-600 w-10">{label}</span>
+      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
+        <span className="text-sm font-medium text-slate-600 sm:w-12">{label}</span>
 
-        {/* Select box */}
         <button
+          type="button"
           onClick={() => setOpen(!open)}
-          className="flex-1 flex items-center justify-between border rounded-md px-3 py-2 text-sm hover:bg-gray-50"
+          className="flex min-h-11 flex-1 items-center justify-between rounded-xl border border-slate-200 px-3 py-2 text-left text-sm text-slate-700 transition hover:bg-slate-50"
+          aria-expanded={open}
         >
-          {value}
-
+          <span className="truncate">{value}</span>
+          <FontAwesomeIcon
+            icon={faChevronDown}
+            className={`ml-3 text-xs text-slate-400 transition ${open ? "rotate-180" : ""}`}
+          />
         </button>
       </div>
 
-      {/* Dropdown */}
       {open && (
-        <div className="absolute right-0 mt-1 w-[70%] bg-white border rounded-md shadow z-10">
+        <div className="absolute left-0 right-0 top-full z-10 mt-2 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-lg sm:left-auto sm:w-[calc(100%-3.75rem)]">
           {options.map((item) => (
-            <div
+            <button
+              type="button"
               key={item}
               onClick={() => {
                 onChange(item);
                 setOpen(false);
               }}
-              className="px-3 py-2 text-sm hover:bg-gray-100 cursor-pointer"
+              className="block w-full px-3 py-2 text-left text-sm text-slate-700 transition hover:bg-slate-100"
             >
               {item}
-            </div>
+            </button>
           ))}
         </div>
       )}
