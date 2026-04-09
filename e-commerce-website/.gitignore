@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI files
+AI_*.md
+*_DIAGRAM.md
+*_MAP.md
+PROJECT_OVERVIEW.md
