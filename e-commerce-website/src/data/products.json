@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Loa mini Nebula Sound 001",
+    "slug": "loa-mini-nebula-sound-001",
+    "description": "Loa mini Nebula Sound 001 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 500000,
+    "priceOriginal": 500000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 0,
+    "rating": 3.8,
+    "reviewsCount": 12,
+    "createAt": "2026-01-01T08:00:00.000Z",
+    "updateAt": "2026-01-15T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-001",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 6,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-002",
+    "name": "Laptop AeroBook Pro 14 002",
+    "slug": "laptop-aerobook-pro-14-002",
+    "description": "Laptop AeroBook Pro 14 002 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 565000,
+    "priceOriginal": 595000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 7,
+    "rating": 3.9,
+    "reviewsCount": 17,
+    "createAt": "2026-01-02T08:00:00.000Z",
+    "updateAt": "2026-01-16T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-002",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-003",
+    "name": "Dien thoai Pulse X 003",
+    "slug": "dien-thoai-pulse-x-003",
+    "description": "Dien thoai Pulse X 003 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 622000,
+    "priceOriginal": 691000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 14,
+    "rating": 4,
+    "reviewsCount": 22,
+    "createAt": "2026-01-03T08:00:00.000Z",
+    "updateAt": "2026-01-17T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-003",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-004",
+    "name": "Tai nghe true wireless Orbit 004",
+    "slug": "tai-nghe-true-wireless-orbit-004",
+    "description": "Tai nghe true wireless Orbit 004 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 692000,
+    "priceOriginal": 786000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 21,
+    "rating": 4.1,
+    "reviewsCount": 27,
+    "createAt": "2026-01-04T08:00:00.000Z",
+    "updateAt": "2026-01-18T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-004",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-005",
+    "name": "Ban phim co Nova 005",
+    "slug": "ban-phim-co-nova-005",
+    "description": "Ban phim co Nova 005 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 750000,
+    "priceOriginal": 882000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 28,
+    "rating": 4.2,
+    "reviewsCount": 32,
+    "createAt": "2026-01-05T08:00:00.000Z",
+    "updateAt": "2026-01-19T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-005",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-006",
+    "name": "Chuot khong day Glide Precision 006",
+    "slug": "chuot-khong-day-glide-precision-006",
+    "description": "Chuot khong day Glide Precision 006 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 801000,
+    "priceOriginal": 977000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 35,
+    "rating": 4.3,
+    "reviewsCount": 37,
+    "createAt": "2026-01-06T08:00:00.000Z",
+    "updateAt": "2026-01-20T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-006",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-007",
+    "name": "Man hinh Vision 4K 007",
+    "slug": "man-hinh-vision-4k-007",
+    "description": "Man hinh Vision 4K 007 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 858000,
+    "priceOriginal": 1073000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 42,
+    "rating": 4.4,
+    "reviewsCount": 42,
+    "createAt": "2026-01-07T08:00:00.000Z",
+    "updateAt": "2026-01-21T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-007",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-008",
+    "name": "Pin du phong ZenCharge 008",
+    "slug": "pin-du-phong-zencharge-008",
+    "description": "Pin du phong ZenCharge 008 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 876000,
+    "priceOriginal": 1168000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 49,
+    "rating": 4.5,
+    "reviewsCount": 47,
+    "createAt": "2026-01-08T08:00:00.000Z",
+    "updateAt": "2026-01-22T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-008",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-009",
+    "name": "Tai nghe chong on Cloud ANC 009",
+    "slug": "tai-nghe-chong-on-cloud-anc-009",
+    "description": "Tai nghe chong on Cloud ANC 009 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1264000,
+    "priceOriginal": 1264000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 56,
+    "rating": 4.6,
+    "reviewsCount": 52,
+    "createAt": "2026-01-09T08:00:00.000Z",
+    "updateAt": "2026-01-23T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-009",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-010",
+    "name": "Camera StreamCam Pro 010",
+    "slug": "camera-streamcam-pro-010",
+    "description": "Camera StreamCam Pro 010 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1291000,
+    "priceOriginal": 1359000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 63,
+    "rating": 4.7,
+    "reviewsCount": 57,
+    "createAt": "2026-01-10T08:00:00.000Z",
+    "updateAt": "2026-01-24T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-010",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 12,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-011",
+    "name": "Dong ho thong minh Spark 011",
+    "slug": "dong-ho-thong-minh-spark-011",
+    "description": "Dong ho thong minh Spark 011 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1310000,
+    "priceOriginal": 1455000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 70,
+    "rating": 4.8,
+    "reviewsCount": 62,
+    "createAt": "2026-01-11T08:00:00.000Z",
+    "updateAt": "2026-01-25T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-011",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-012",
+    "name": "Hub chuyen doi Fusion USB-C 012",
+    "slug": "hub-chuyen-doi-fusion-usb-c-012",
+    "description": "Hub chuyen doi Fusion USB-C 012 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1364000,
+    "priceOriginal": 1550000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 77,
+    "rating": 4.9,
+    "reviewsCount": 67,
+    "createAt": "2026-01-12T08:00:00.000Z",
+    "updateAt": "2026-01-26T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-012",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-013",
+    "name": "Loa di dong Echo 013",
+    "slug": "loa-di-dong-echo-013",
+    "description": "Loa di dong Echo 013 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1398000,
+    "priceOriginal": 1645000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 84,
+    "rating": 3.8,
+    "reviewsCount": 72,
+    "createAt": "2026-01-13T08:00:00.000Z",
+    "updateAt": "2026-01-27T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-013",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-014",
+    "name": "Ghe gaming Titan 014",
+    "slug": "ghe-gaming-titan-014",
+    "description": "Ghe gaming Titan 014 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1428000,
+    "priceOriginal": 1741000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 91,
+    "rating": 3.9,
+    "reviewsCount": 77,
+    "createAt": "2026-01-14T08:00:00.000Z",
+    "updateAt": "2026-01-28T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-014",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-015",
+    "name": "May tinh bang Pixel Tablet Air 015",
+    "slug": "may-tinh-bang-pixel-tablet-air-015",
+    "description": "May tinh bang Pixel Tablet Air 015 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1469000,
+    "priceOriginal": 1836000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 98,
+    "rating": 4,
+    "reviewsCount": 82,
+    "createAt": "2026-01-15T08:00:00.000Z",
+    "updateAt": "2026-01-29T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-015",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-016",
+    "name": "Den ban Luma 016",
+    "slug": "den-ban-luma-016",
+    "description": "Den ban Luma 016 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1449000,
+    "priceOriginal": 1932000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 53,
+    "soldOut": 105,
+    "rating": 4.1,
+    "reviewsCount": 87,
+    "createAt": "2026-01-16T08:00:00.000Z",
+    "updateAt": "2026-01-30T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-016",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-017",
+    "name": "Vong deo suc khoe CoreFit 017",
+    "slug": "vong-deo-suc-khoe-corefit-017",
+    "description": "Vong deo suc khoe CoreFit 017 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2027000,
+    "priceOriginal": 2027000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 56,
+    "soldOut": 112,
+    "rating": 4.2,
+    "reviewsCount": 92,
+    "createAt": "2026-01-17T08:00:00.000Z",
+    "updateAt": "2026-01-31T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-017",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-018",
+    "name": "Cu sac nhanh RapidCharge 018",
+    "slug": "cu-sac-nhanh-rapidcharge-018",
+    "description": "Cu sac nhanh RapidCharge 018 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2017000,
+    "priceOriginal": 2123000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 119,
+    "rating": 4.3,
+    "reviewsCount": 97,
+    "createAt": "2026-01-18T08:00:00.000Z",
+    "updateAt": "2026-02-01T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-018",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-019",
+    "name": "Gia do dien thoai SnapGrip 019",
+    "slug": "gia-do-dien-thoai-snapgrip-019",
+    "description": "Gia do dien thoai SnapGrip 019 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 1996000,
+    "priceOriginal": 2218000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 126,
+    "rating": 4.4,
+    "reviewsCount": 102,
+    "createAt": "2026-01-19T08:00:00.000Z",
+    "updateAt": "2026-02-02T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-019",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 18,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-020",
+    "name": "O cung SSD HyperDrive 020",
+    "slug": "o-cung-ssd-hyperdrive-020",
+    "description": "O cung SSD HyperDrive 020 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2036000,
+    "priceOriginal": 2314000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 133,
+    "rating": 4.5,
+    "reviewsCount": 107,
+    "createAt": "2026-01-20T08:00:00.000Z",
+    "updateAt": "2026-02-03T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-020",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-021",
+    "name": "Loa mini Nebula Sound 021",
+    "slug": "loa-mini-nebula-sound-021",
+    "description": "Loa mini Nebula Sound 021 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2048000,
+    "priceOriginal": 2409000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 140,
+    "rating": 4.6,
+    "reviewsCount": 112,
+    "createAt": "2026-01-21T08:00:00.000Z",
+    "updateAt": "2026-02-04T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-021",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-022",
+    "name": "Laptop AeroBook Pro 14 022",
+    "slug": "laptop-aerobook-pro-14-022",
+    "description": "Laptop AeroBook Pro 14 022 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2054000,
+    "priceOriginal": 2505000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 147,
+    "rating": 4.7,
+    "reviewsCount": 117,
+    "createAt": "2026-01-22T08:00:00.000Z",
+    "updateAt": "2026-02-05T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-022",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-023",
+    "name": "Dien thoai Pulse X 023",
+    "slug": "dien-thoai-pulse-x-023",
+    "description": "Dien thoai Pulse X 023 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2080000,
+    "priceOriginal": 2600000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 154,
+    "rating": 4.8,
+    "reviewsCount": 122,
+    "createAt": "2026-01-23T08:00:00.000Z",
+    "updateAt": "2026-02-06T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-023",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-024",
+    "name": "Tai nghe true wireless Orbit 024",
+    "slug": "tai-nghe-true-wireless-orbit-024",
+    "description": "Tai nghe true wireless Orbit 024 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2021000,
+    "priceOriginal": 2695000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 161,
+    "rating": 4.9,
+    "reviewsCount": 127,
+    "createAt": "2026-01-24T08:00:00.000Z",
+    "updateAt": "2026-02-07T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-024",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-025",
+    "name": "Ban phim co Nova 025",
+    "slug": "ban-phim-co-nova-025",
+    "description": "Ban phim co Nova 025 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2791000,
+    "priceOriginal": 2791000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 168,
+    "rating": 3.8,
+    "reviewsCount": 132,
+    "createAt": "2026-01-25T08:00:00.000Z",
+    "updateAt": "2026-02-08T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-025",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-026",
+    "name": "Chuot khong day Glide Precision 026",
+    "slug": "chuot-khong-day-glide-precision-026",
+    "description": "Chuot khong day Glide Precision 026 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2742000,
+    "priceOriginal": 2886000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 175,
+    "rating": 3.9,
+    "reviewsCount": 137,
+    "createAt": "2026-01-26T08:00:00.000Z",
+    "updateAt": "2026-02-09T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-026",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-027",
+    "name": "Man hinh Vision 4K 027",
+    "slug": "man-hinh-vision-4k-027",
+    "description": "Man hinh Vision 4K 027 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2684000,
+    "priceOriginal": 2982000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 2,
+    "rating": 4,
+    "reviewsCount": 142,
+    "createAt": "2026-01-27T08:00:00.000Z",
+    "updateAt": "2026-02-10T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-027",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-028",
+    "name": "Pin du phong ZenCharge 028",
+    "slug": "pin-du-phong-zencharge-028",
+    "description": "Pin du phong ZenCharge 028 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2708000,
+    "priceOriginal": 3077000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 9,
+    "rating": 4.1,
+    "reviewsCount": 147,
+    "createAt": "2026-01-28T08:00:00.000Z",
+    "updateAt": "2026-02-11T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-028",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 24,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-029",
+    "name": "Tai nghe chong on Cloud ANC 029",
+    "slug": "tai-nghe-chong-on-cloud-anc-029",
+    "description": "Tai nghe chong on Cloud ANC 029 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2697000,
+    "priceOriginal": 3173000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 16,
+    "rating": 4.2,
+    "reviewsCount": 152,
+    "createAt": "2026-01-29T08:00:00.000Z",
+    "updateAt": "2026-02-12T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-029",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-030",
+    "name": "Camera StreamCam Pro 030",
+    "slug": "camera-streamcam-pro-030",
+    "description": "Camera StreamCam Pro 030 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2680000,
+    "priceOriginal": 3268000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 23,
+    "rating": 4.3,
+    "reviewsCount": 157,
+    "createAt": "2026-01-30T08:00:00.000Z",
+    "updateAt": "2026-02-13T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-030",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-031",
+    "name": "Dong ho thong minh Spark 031",
+    "slug": "dong-ho-thong-minh-spark-031",
+    "description": "Dong ho thong minh Spark 031 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2691000,
+    "priceOriginal": 3364000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 30,
+    "rating": 4.4,
+    "reviewsCount": 162,
+    "createAt": "2026-01-31T08:00:00.000Z",
+    "updateAt": "2026-02-14T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-031",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-032",
+    "name": "Hub chuyen doi Fusion USB-C 032",
+    "slug": "hub-chuyen-doi-fusion-usb-c-032",
+    "description": "Hub chuyen doi Fusion USB-C 032 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 2594000,
+    "priceOriginal": 3459000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 37,
+    "rating": 4.5,
+    "reviewsCount": 167,
+    "createAt": "2026-02-01T08:00:00.000Z",
+    "updateAt": "2026-02-15T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-032",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-033",
+    "name": "Loa di dong Echo 033",
+    "slug": "loa-di-dong-echo-033",
+    "description": "Loa di dong Echo 033 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3555000,
+    "priceOriginal": 3555000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 53,
+    "soldOut": 44,
+    "rating": 4.6,
+    "reviewsCount": 172,
+    "createAt": "2026-02-02T08:00:00.000Z",
+    "updateAt": "2026-02-16T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-033",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-034",
+    "name": "Ghe gaming Titan 034",
+    "slug": "ghe-gaming-titan-034",
+    "description": "Ghe gaming Titan 034 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3468000,
+    "priceOriginal": 3650000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 56,
+    "soldOut": 51,
+    "rating": 4.7,
+    "reviewsCount": 177,
+    "createAt": "2026-02-03T08:00:00.000Z",
+    "updateAt": "2026-02-17T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-034",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-035",
+    "name": "May tinh bang Pixel Tablet Air 035",
+    "slug": "may-tinh-bang-pixel-tablet-air-035",
+    "description": "May tinh bang Pixel Tablet Air 035 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3371000,
+    "priceOriginal": 3745000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 58,
+    "rating": 4.8,
+    "reviewsCount": 182,
+    "createAt": "2026-02-04T08:00:00.000Z",
+    "updateAt": "2026-02-18T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-035",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-036",
+    "name": "Den ban Luma 036",
+    "slug": "den-ban-luma-036",
+    "description": "Den ban Luma 036 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3380000,
+    "priceOriginal": 3841000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 65,
+    "rating": 4.9,
+    "reviewsCount": 187,
+    "createAt": "2026-02-05T08:00:00.000Z",
+    "updateAt": "2026-02-19T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-036",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-037",
+    "name": "Vong deo suc khoe CoreFit 037",
+    "slug": "vong-deo-suc-khoe-corefit-037",
+    "description": "Vong deo suc khoe CoreFit 037 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3346000,
+    "priceOriginal": 3936000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 72,
+    "rating": 3.8,
+    "reviewsCount": 192,
+    "createAt": "2026-02-06T08:00:00.000Z",
+    "updateAt": "2026-02-20T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-037",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 6,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-038",
+    "name": "Cu sac nhanh RapidCharge 038",
+    "slug": "cu-sac-nhanh-rapidcharge-038",
+    "description": "Cu sac nhanh RapidCharge 038 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3306000,
+    "priceOriginal": 4032000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 79,
+    "rating": 3.9,
+    "reviewsCount": 197,
+    "createAt": "2026-02-07T08:00:00.000Z",
+    "updateAt": "2026-02-21T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-038",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-039",
+    "name": "Gia do dien thoai SnapGrip 039",
+    "slug": "gia-do-dien-thoai-snapgrip-039",
+    "description": "Gia do dien thoai SnapGrip 039 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3302000,
+    "priceOriginal": 4127000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 86,
+    "rating": 4,
+    "reviewsCount": 202,
+    "createAt": "2026-02-08T08:00:00.000Z",
+    "updateAt": "2026-02-22T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-039",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-040",
+    "name": "O cung SSD HyperDrive 040",
+    "slug": "o-cung-ssd-hyperdrive-040",
+    "description": "O cung SSD HyperDrive 040 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3167000,
+    "priceOriginal": 4223000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 93,
+    "rating": 4.1,
+    "reviewsCount": 207,
+    "createAt": "2026-02-09T08:00:00.000Z",
+    "updateAt": "2026-02-23T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-040",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-041",
+    "name": "Loa mini Nebula Sound 041",
+    "slug": "loa-mini-nebula-sound-041",
+    "description": "Loa mini Nebula Sound 041 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4318000,
+    "priceOriginal": 4318000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 100,
+    "rating": 4.2,
+    "reviewsCount": 212,
+    "createAt": "2026-02-10T08:00:00.000Z",
+    "updateAt": "2026-02-24T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-041",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-042",
+    "name": "Laptop AeroBook Pro 14 042",
+    "slug": "laptop-aerobook-pro-14-042",
+    "description": "Laptop AeroBook Pro 14 042 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4193000,
+    "priceOriginal": 4414000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 107,
+    "rating": 4.3,
+    "reviewsCount": 217,
+    "createAt": "2026-02-11T08:00:00.000Z",
+    "updateAt": "2026-02-25T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-042",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-043",
+    "name": "Dien thoai Pulse X 043",
+    "slug": "dien-thoai-pulse-x-043",
+    "description": "Dien thoai Pulse X 043 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4058000,
+    "priceOriginal": 4509000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 114,
+    "rating": 4.4,
+    "reviewsCount": 222,
+    "createAt": "2026-02-12T08:00:00.000Z",
+    "updateAt": "2026-02-26T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-043",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-044",
+    "name": "Tai nghe true wireless Orbit 044",
+    "slug": "tai-nghe-true-wireless-orbit-044",
+    "description": "Tai nghe true wireless Orbit 044 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4052000,
+    "priceOriginal": 4605000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 121,
+    "rating": 4.5,
+    "reviewsCount": 227,
+    "createAt": "2026-02-13T08:00:00.000Z",
+    "updateAt": "2026-02-27T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-044",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-045",
+    "name": "Ban phim co Nova 045",
+    "slug": "ban-phim-co-nova-045",
+    "description": "Ban phim co Nova 045 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3995000,
+    "priceOriginal": 4700000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 128,
+    "rating": 4.6,
+    "reviewsCount": 232,
+    "createAt": "2026-02-14T08:00:00.000Z",
+    "updateAt": "2026-02-28T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-045",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-046",
+    "name": "Chuot khong day Glide Precision 046",
+    "slug": "chuot-khong-day-glide-precision-046",
+    "description": "Chuot khong day Glide Precision 046 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3932000,
+    "priceOriginal": 4795000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 135,
+    "rating": 4.7,
+    "reviewsCount": 237,
+    "createAt": "2026-02-15T08:00:00.000Z",
+    "updateAt": "2026-03-01T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-046",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 12,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-047",
+    "name": "Man hinh Vision 4K 047",
+    "slug": "man-hinh-vision-4k-047",
+    "description": "Man hinh Vision 4K 047 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3913000,
+    "priceOriginal": 4891000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 142,
+    "rating": 4.8,
+    "reviewsCount": 242,
+    "createAt": "2026-02-16T08:00:00.000Z",
+    "updateAt": "2026-03-02T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-047",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-048",
+    "name": "Pin du phong ZenCharge 048",
+    "slug": "pin-du-phong-zencharge-048",
+    "description": "Pin du phong ZenCharge 048 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 3740000,
+    "priceOriginal": 4986000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 149,
+    "rating": 4.9,
+    "reviewsCount": 247,
+    "createAt": "2026-02-17T08:00:00.000Z",
+    "updateAt": "2026-03-03T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-048",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-049",
+    "name": "Tai nghe chong on Cloud ANC 049",
+    "slug": "tai-nghe-chong-on-cloud-anc-049",
+    "description": "Tai nghe chong on Cloud ANC 049 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5082000,
+    "priceOriginal": 5082000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 156,
+    "rating": 3.8,
+    "reviewsCount": 252,
+    "createAt": "2026-02-18T08:00:00.000Z",
+    "updateAt": "2026-03-04T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-049",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-050",
+    "name": "Camera StreamCam Pro 050",
+    "slug": "camera-streamcam-pro-050",
+    "description": "Camera StreamCam Pro 050 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4918000,
+    "priceOriginal": 5177000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 53,
+    "soldOut": 163,
+    "rating": 3.9,
+    "reviewsCount": 257,
+    "createAt": "2026-02-19T08:00:00.000Z",
+    "updateAt": "2026-03-05T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-050",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-051",
+    "name": "Dong ho thong minh Spark 051",
+    "slug": "dong-ho-thong-minh-spark-051",
+    "description": "Dong ho thong minh Spark 051 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4746000,
+    "priceOriginal": 5273000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 56,
+    "soldOut": 170,
+    "rating": 4,
+    "reviewsCount": 262,
+    "createAt": "2026-02-20T08:00:00.000Z",
+    "updateAt": "2026-03-06T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-051",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-052",
+    "name": "Hub chuyen doi Fusion USB-C 052",
+    "slug": "hub-chuyen-doi-fusion-usb-c-052",
+    "description": "Hub chuyen doi Fusion USB-C 052 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4724000,
+    "priceOriginal": 5368000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 177,
+    "rating": 4.1,
+    "reviewsCount": 267,
+    "createAt": "2026-02-21T08:00:00.000Z",
+    "updateAt": "2026-03-07T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-052",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-053",
+    "name": "Loa di dong Echo 053",
+    "slug": "loa-di-dong-echo-053",
+    "description": "Loa di dong Echo 053 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4644000,
+    "priceOriginal": 5464000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 4,
+    "rating": 4.2,
+    "reviewsCount": 272,
+    "createAt": "2026-02-22T08:00:00.000Z",
+    "updateAt": "2026-03-08T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-053",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-054",
+    "name": "Ghe gaming Titan 054",
+    "slug": "ghe-gaming-titan-054",
+    "description": "Ghe gaming Titan 054 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4558000,
+    "priceOriginal": 5559000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 11,
+    "rating": 4.3,
+    "reviewsCount": 277,
+    "createAt": "2026-02-23T08:00:00.000Z",
+    "updateAt": "2026-03-09T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-054",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-055",
+    "name": "May tinh bang Pixel Tablet Air 055",
+    "slug": "may-tinh-bang-pixel-tablet-air-055",
+    "description": "May tinh bang Pixel Tablet Air 055 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4524000,
+    "priceOriginal": 5655000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 18,
+    "rating": 4.4,
+    "reviewsCount": 282,
+    "createAt": "2026-02-24T08:00:00.000Z",
+    "updateAt": "2026-03-10T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-055",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 18,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-056",
+    "name": "Den ban Luma 056",
+    "slug": "den-ban-luma-056",
+    "description": "Den ban Luma 056 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4313000,
+    "priceOriginal": 5750000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 25,
+    "rating": 4.5,
+    "reviewsCount": 287,
+    "createAt": "2026-02-25T08:00:00.000Z",
+    "updateAt": "2026-03-11T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-056",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-057",
+    "name": "Vong deo suc khoe CoreFit 057",
+    "slug": "vong-deo-suc-khoe-corefit-057",
+    "description": "Vong deo suc khoe CoreFit 057 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5845000,
+    "priceOriginal": 5845000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 32,
+    "rating": 4.6,
+    "reviewsCount": 292,
+    "createAt": "2026-02-26T08:00:00.000Z",
+    "updateAt": "2026-03-12T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-057",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-058",
+    "name": "Cu sac nhanh RapidCharge 058",
+    "slug": "cu-sac-nhanh-rapidcharge-058",
+    "description": "Cu sac nhanh RapidCharge 058 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5644000,
+    "priceOriginal": 5941000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 39,
+    "rating": 4.7,
+    "reviewsCount": 297,
+    "createAt": "2026-02-27T08:00:00.000Z",
+    "updateAt": "2026-03-13T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-058",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-059",
+    "name": "Gia do dien thoai SnapGrip 059",
+    "slug": "gia-do-dien-thoai-snapgrip-059",
+    "description": "Gia do dien thoai SnapGrip 059 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5432000,
+    "priceOriginal": 6036000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 46,
+    "rating": 4.8,
+    "reviewsCount": 302,
+    "createAt": "2026-02-28T08:00:00.000Z",
+    "updateAt": "2026-03-14T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-059",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-060",
+    "name": "O cung SSD HyperDrive 060",
+    "slug": "o-cung-ssd-hyperdrive-060",
+    "description": "O cung SSD HyperDrive 060 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5396000,
+    "priceOriginal": 6132000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 53,
+    "rating": 4.9,
+    "reviewsCount": 307,
+    "createAt": "2026-03-01T08:00:00.000Z",
+    "updateAt": "2026-03-15T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-060",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-061",
+    "name": "Loa mini Nebula Sound 061",
+    "slug": "loa-mini-nebula-sound-061",
+    "description": "Loa mini Nebula Sound 061 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5293000,
+    "priceOriginal": 6227000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 60,
+    "rating": 3.8,
+    "reviewsCount": 312,
+    "createAt": "2026-03-02T08:00:00.000Z",
+    "updateAt": "2026-03-16T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-061",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-062",
+    "name": "Laptop AeroBook Pro 14 062",
+    "slug": "laptop-aerobook-pro-14-062",
+    "description": "Laptop AeroBook Pro 14 062 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5185000,
+    "priceOriginal": 6323000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 67,
+    "rating": 3.9,
+    "reviewsCount": 317,
+    "createAt": "2026-03-03T08:00:00.000Z",
+    "updateAt": "2026-03-17T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-062",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-063",
+    "name": "Dien thoai Pulse X 063",
+    "slug": "dien-thoai-pulse-x-063",
+    "description": "Dien thoai Pulse X 063 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5134000,
+    "priceOriginal": 6418000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 74,
+    "rating": 4,
+    "reviewsCount": 322,
+    "createAt": "2026-03-04T08:00:00.000Z",
+    "updateAt": "2026-03-18T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-063",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-064",
+    "name": "Tai nghe true wireless Orbit 064",
+    "slug": "tai-nghe-true-wireless-orbit-064",
+    "description": "Tai nghe true wireless Orbit 064 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 4886000,
+    "priceOriginal": 6514000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 81,
+    "rating": 4.1,
+    "reviewsCount": 327,
+    "createAt": "2026-03-05T08:00:00.000Z",
+    "updateAt": "2026-03-19T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-064",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 24,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-065",
+    "name": "Ban phim co Nova 065",
+    "slug": "ban-phim-co-nova-065",
+    "description": "Ban phim co Nova 065 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6609000,
+    "priceOriginal": 6609000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 88,
+    "rating": 4.2,
+    "reviewsCount": 12,
+    "createAt": "2026-03-06T08:00:00.000Z",
+    "updateAt": "2026-03-20T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-065",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-066",
+    "name": "Chuot khong day Glide Precision 066",
+    "slug": "chuot-khong-day-glide-precision-066",
+    "description": "Chuot khong day Glide Precision 066 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6370000,
+    "priceOriginal": 6705000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 95,
+    "rating": 4.3,
+    "reviewsCount": 17,
+    "createAt": "2026-03-07T08:00:00.000Z",
+    "updateAt": "2026-03-21T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-066",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-067",
+    "name": "Man hinh Vision 4K 067",
+    "slug": "man-hinh-vision-4k-067",
+    "description": "Man hinh Vision 4K 067 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6120000,
+    "priceOriginal": 6800000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 53,
+    "soldOut": 102,
+    "rating": 4.4,
+    "reviewsCount": 22,
+    "createAt": "2026-03-08T08:00:00.000Z",
+    "updateAt": "2026-03-22T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-067",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-068",
+    "name": "Pin du phong ZenCharge 068",
+    "slug": "pin-du-phong-zencharge-068",
+    "description": "Pin du phong ZenCharge 068 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6068000,
+    "priceOriginal": 6895000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 56,
+    "soldOut": 109,
+    "rating": 4.5,
+    "reviewsCount": 27,
+    "createAt": "2026-03-09T08:00:00.000Z",
+    "updateAt": "2026-03-23T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-068",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-069",
+    "name": "Tai nghe chong on Cloud ANC 069",
+    "slug": "tai-nghe-chong-on-cloud-anc-069",
+    "description": "Tai nghe chong on Cloud ANC 069 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5942000,
+    "priceOriginal": 6991000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 116,
+    "rating": 4.6,
+    "reviewsCount": 32,
+    "createAt": "2026-03-10T08:00:00.000Z",
+    "updateAt": "2026-03-24T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-069",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-070",
+    "name": "Camera StreamCam Pro 070",
+    "slug": "camera-streamcam-pro-070",
+    "description": "Camera StreamCam Pro 070 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5811000,
+    "priceOriginal": 7086000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 123,
+    "rating": 4.7,
+    "reviewsCount": 37,
+    "createAt": "2026-03-11T08:00:00.000Z",
+    "updateAt": "2026-03-25T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-070",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-071",
+    "name": "Dong ho thong minh Spark 071",
+    "slug": "dong-ho-thong-minh-spark-071",
+    "description": "Dong ho thong minh Spark 071 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5746000,
+    "priceOriginal": 7182000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 130,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "createAt": "2026-03-12T08:00:00.000Z",
+    "updateAt": "2026-03-26T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-071",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-072",
+    "name": "Hub chuyen doi Fusion USB-C 072",
+    "slug": "hub-chuyen-doi-fusion-usb-c-072",
+    "description": "Hub chuyen doi Fusion USB-C 072 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 5458000,
+    "priceOriginal": 7277000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 137,
+    "rating": 4.9,
+    "reviewsCount": 47,
+    "createAt": "2026-03-13T08:00:00.000Z",
+    "updateAt": "2026-03-27T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-072",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-073",
+    "name": "Loa di dong Echo 073",
+    "slug": "loa-di-dong-echo-073",
+    "description": "Loa di dong Echo 073 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7373000,
+    "priceOriginal": 7373000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 144,
+    "rating": 3.8,
+    "reviewsCount": 52,
+    "createAt": "2026-03-14T08:00:00.000Z",
+    "updateAt": "2026-03-28T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-073",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 6,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-074",
+    "name": "Ghe gaming Titan 074",
+    "slug": "ghe-gaming-titan-074",
+    "description": "Ghe gaming Titan 074 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7095000,
+    "priceOriginal": 7468000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 151,
+    "rating": 3.9,
+    "reviewsCount": 57,
+    "createAt": "2026-03-15T08:00:00.000Z",
+    "updateAt": "2026-03-29T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-074",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-075",
+    "name": "May tinh bang Pixel Tablet Air 075",
+    "slug": "may-tinh-bang-pixel-tablet-air-075",
+    "description": "May tinh bang Pixel Tablet Air 075 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6808000,
+    "priceOriginal": 7564000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 158,
+    "rating": 4,
+    "reviewsCount": 62,
+    "createAt": "2026-03-16T08:00:00.000Z",
+    "updateAt": "2026-03-30T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-075",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-076",
+    "name": "Den ban Luma 076",
+    "slug": "den-ban-luma-076",
+    "description": "Den ban Luma 076 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6740000,
+    "priceOriginal": 7659000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 165,
+    "rating": 4.1,
+    "reviewsCount": 67,
+    "createAt": "2026-03-17T08:00:00.000Z",
+    "updateAt": "2026-03-31T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-076",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-077",
+    "name": "Vong deo suc khoe CoreFit 077",
+    "slug": "vong-deo-suc-khoe-corefit-077",
+    "description": "Vong deo suc khoe CoreFit 077 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6592000,
+    "priceOriginal": 7755000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 172,
+    "rating": 4.2,
+    "reviewsCount": 72,
+    "createAt": "2026-03-18T08:00:00.000Z",
+    "updateAt": "2026-04-01T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-077",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-078",
+    "name": "Cu sac nhanh RapidCharge 078",
+    "slug": "cu-sac-nhanh-rapidcharge-078",
+    "description": "Cu sac nhanh RapidCharge 078 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6437000,
+    "priceOriginal": 7850000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 179,
+    "rating": 4.3,
+    "reviewsCount": 77,
+    "createAt": "2026-03-19T08:00:00.000Z",
+    "updateAt": "2026-04-02T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-078",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-079",
+    "name": "Gia do dien thoai SnapGrip 079",
+    "slug": "gia-do-dien-thoai-snapgrip-079",
+    "description": "Gia do dien thoai SnapGrip 079 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6356000,
+    "priceOriginal": 7945000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 6,
+    "rating": 4.4,
+    "reviewsCount": 82,
+    "createAt": "2026-03-20T08:00:00.000Z",
+    "updateAt": "2026-04-03T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-079",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-080",
+    "name": "O cung SSD HyperDrive 080",
+    "slug": "o-cung-ssd-hyperdrive-080",
+    "description": "O cung SSD HyperDrive 080 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6031000,
+    "priceOriginal": 8041000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 13,
+    "rating": 4.5,
+    "reviewsCount": 87,
+    "createAt": "2026-03-21T08:00:00.000Z",
+    "updateAt": "2026-04-04T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-080",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-081",
+    "name": "Loa mini Nebula Sound 081",
+    "slug": "loa-mini-nebula-sound-081",
+    "description": "Loa mini Nebula Sound 081 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8136000,
+    "priceOriginal": 8136000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 20,
+    "rating": 4.6,
+    "reviewsCount": 92,
+    "createAt": "2026-03-22T08:00:00.000Z",
+    "updateAt": "2026-04-05T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-081",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-082",
+    "name": "Laptop AeroBook Pro 14 082",
+    "slug": "laptop-aerobook-pro-14-082",
+    "description": "Laptop AeroBook Pro 14 082 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7820000,
+    "priceOriginal": 8232000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 27,
+    "rating": 4.7,
+    "reviewsCount": 97,
+    "createAt": "2026-03-23T08:00:00.000Z",
+    "updateAt": "2026-04-06T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-082",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 12,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-083",
+    "name": "Dien thoai Pulse X 083",
+    "slug": "dien-thoai-pulse-x-083",
+    "description": "Dien thoai Pulse X 083 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7494000,
+    "priceOriginal": 8327000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 34,
+    "rating": 4.8,
+    "reviewsCount": 102,
+    "createAt": "2026-03-24T08:00:00.000Z",
+    "updateAt": "2026-04-07T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-083",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-084",
+    "name": "Tai nghe true wireless Orbit 084",
+    "slug": "tai-nghe-true-wireless-orbit-084",
+    "description": "Tai nghe true wireless Orbit 084 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7412000,
+    "priceOriginal": 8423000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 53,
+    "soldOut": 41,
+    "rating": 4.9,
+    "reviewsCount": 107,
+    "createAt": "2026-03-25T08:00:00.000Z",
+    "updateAt": "2026-04-08T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-084",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-085",
+    "name": "Ban phim co Nova 085",
+    "slug": "ban-phim-co-nova-085",
+    "description": "Ban phim co Nova 085 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7240000,
+    "priceOriginal": 8518000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 56,
+    "soldOut": 48,
+    "rating": 3.8,
+    "reviewsCount": 112,
+    "createAt": "2026-03-26T08:00:00.000Z",
+    "updateAt": "2026-04-09T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-085",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-086",
+    "name": "Chuot khong day Glide Precision 086",
+    "slug": "chuot-khong-day-glide-precision-086",
+    "description": "Chuot khong day Glide Precision 086 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7063000,
+    "priceOriginal": 8614000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 8,
+    "soldOut": 55,
+    "rating": 3.9,
+    "reviewsCount": 117,
+    "createAt": "2026-03-27T08:00:00.000Z",
+    "updateAt": "2026-04-10T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-086",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-087",
+    "name": "Man hinh Vision 4K 087",
+    "slug": "man-hinh-vision-4k-087",
+    "description": "Man hinh Vision 4K 087 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6967000,
+    "priceOriginal": 8709000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 11,
+    "soldOut": 62,
+    "rating": 4,
+    "reviewsCount": 122,
+    "createAt": "2026-03-28T08:00:00.000Z",
+    "updateAt": "2026-04-11T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-087",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-088",
+    "name": "Pin du phong ZenCharge 088",
+    "slug": "pin-du-phong-zencharge-088",
+    "description": "Pin du phong ZenCharge 088 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 6604000,
+    "priceOriginal": 8805000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 14,
+    "soldOut": 69,
+    "rating": 4.1,
+    "reviewsCount": 127,
+    "createAt": "2026-03-29T08:00:00.000Z",
+    "updateAt": "2026-04-12T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-088",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-089",
+    "name": "Tai nghe chong on Cloud ANC 089",
+    "slug": "tai-nghe-chong-on-cloud-anc-089",
+    "description": "Tai nghe chong on Cloud ANC 089 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8900000,
+    "priceOriginal": 8900000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 17,
+    "soldOut": 76,
+    "rating": 4.2,
+    "reviewsCount": 132,
+    "createAt": "2026-03-30T08:00:00.000Z",
+    "updateAt": "2026-04-13T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-089",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-090",
+    "name": "Camera StreamCam Pro 090",
+    "slug": "camera-streamcam-pro-090",
+    "description": "Camera StreamCam Pro 090 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8545000,
+    "priceOriginal": 8995000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 20,
+    "soldOut": 83,
+    "rating": 4.3,
+    "reviewsCount": 137,
+    "createAt": "2026-03-31T08:00:00.000Z",
+    "updateAt": "2026-04-14T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-090",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-091",
+    "name": "Dong ho thong minh Spark 091",
+    "slug": "dong-ho-thong-minh-spark-091",
+    "description": "Dong ho thong minh Spark 091 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8182000,
+    "priceOriginal": 9091000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 23,
+    "soldOut": 90,
+    "rating": 4.4,
+    "reviewsCount": 142,
+    "createAt": "2026-04-01T08:00:00.000Z",
+    "updateAt": "2026-04-15T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-091",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 18,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-092",
+    "name": "Hub chuyen doi Fusion USB-C 092",
+    "slug": "hub-chuyen-doi-fusion-usb-c-092",
+    "description": "Hub chuyen doi Fusion USB-C 092 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8084000,
+    "priceOriginal": 9186000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 26,
+    "soldOut": 97,
+    "rating": 4.5,
+    "reviewsCount": 147,
+    "createAt": "2026-04-02T08:00:00.000Z",
+    "updateAt": "2026-04-16T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-092",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-093",
+    "name": "Loa di dong Echo 093",
+    "slug": "loa-di-dong-echo-093",
+    "description": "Loa di dong Echo 093 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Gaming",
+    "categoryId": "category-gaming-gear-performance",
+    "tags": [
+      "wireless",
+      "portable",
+      "gaming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7890000,
+    "priceOriginal": 9282000,
+    "discountPercentage": 15,
+    "inStock": true,
+    "stockQuanlity": 29,
+    "soldOut": 104,
+    "rating": 4.6,
+    "reviewsCount": 152,
+    "createAt": "2026-04-03T08:00:00.000Z",
+    "updateAt": "2026-04-17T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-GAM-093",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-094",
+    "name": "Ghe gaming Titan 094",
+    "slug": "ghe-gaming-titan-094",
+    "description": "Ghe gaming Titan 094 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Home Tech",
+    "categoryId": "category-home-tech-smart-living",
+    "tags": [
+      "gaming",
+      "performance",
+      "home-tech"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7689000,
+    "priceOriginal": 9377000,
+    "discountPercentage": 18,
+    "inStock": true,
+    "stockQuanlity": 32,
+    "soldOut": 111,
+    "rating": 4.7,
+    "reviewsCount": 157,
+    "createAt": "2026-04-04T08:00:00.000Z",
+    "updateAt": "2026-04-18T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-HOM-094",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-095",
+    "name": "May tinh bang Pixel Tablet Air 095",
+    "slug": "may-tinh-bang-pixel-tablet-air-095",
+    "description": "May tinh bang Pixel Tablet Air 095 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Wearable",
+    "categoryId": "category-wearable-smart-devices",
+    "tags": [
+      "work",
+      "productivity",
+      "wearable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7578000,
+    "priceOriginal": 9473000,
+    "discountPercentage": 20,
+    "inStock": true,
+    "stockQuanlity": 35,
+    "soldOut": 118,
+    "rating": 4.8,
+    "reviewsCount": 162,
+    "createAt": "2026-04-05T08:00:00.000Z",
+    "updateAt": "2026-04-19T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-WEA-095",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-096",
+    "name": "Den ban Luma 096",
+    "slug": "den-ban-luma-096",
+    "description": "Den ban Luma 096 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Camera",
+    "categoryId": "category-camera-imaging-equipment",
+    "tags": [
+      "smart-home",
+      "daily-use",
+      "camera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 7176000,
+    "priceOriginal": 9568000,
+    "discountPercentage": 25,
+    "inStock": true,
+    "stockQuanlity": 38,
+    "soldOut": 125,
+    "rating": 4.9,
+    "reviewsCount": 167,
+    "createAt": "2026-04-06T08:00:00.000Z",
+    "updateAt": "2026-04-20T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-CAM-096",
+      "brand": "Nova",
+      "color": "Black",
+      "warrantyMonths": 24,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-097",
+    "name": "Vong deo suc khoe CoreFit 097",
+    "slug": "vong-deo-suc-khoe-corefit-097",
+    "description": "Vong deo suc khoe CoreFit 097 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Audio",
+    "categoryId": "category-audio-devices-premium",
+    "tags": [
+      "new",
+      "featured",
+      "audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 9664000,
+    "priceOriginal": 9664000,
+    "discountPercentage": 0,
+    "inStock": true,
+    "stockQuanlity": 41,
+    "soldOut": 132,
+    "rating": 3.8,
+    "reviewsCount": 172,
+    "createAt": "2026-04-07T08:00:00.000Z",
+    "updateAt": "2026-04-21T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-AUD-097",
+      "brand": "Aero",
+      "color": "White",
+      "warrantyMonths": 6,
+      "featured": false,
+      "shippingClass": "standard"
+    }
+  },
+  {
+    "id": "prod-098",
+    "name": "Cu sac nhanh RapidCharge 098",
+    "slug": "cu-sac-nhanh-rapidcharge-098",
+    "description": "Cu sac nhanh RapidCharge 098 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Laptop",
+    "categoryId": "category-laptop-computers-premium",
+    "tags": [
+      "best-seller",
+      "hot",
+      "laptop"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 9271000,
+    "priceOriginal": 9759000,
+    "discountPercentage": 5,
+    "inStock": true,
+    "stockQuanlity": 44,
+    "soldOut": 139,
+    "rating": 3.9,
+    "reviewsCount": 177,
+    "createAt": "2026-04-08T08:00:00.000Z",
+    "updateAt": "2026-04-22T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-LAP-098",
+      "brand": "Pulse",
+      "color": "Silver",
+      "warrantyMonths": 12,
+      "featured": false,
+      "shippingClass": "express"
+    }
+  },
+  {
+    "id": "prod-099",
+    "name": "Gia do dien thoai SnapGrip 099",
+    "slug": "gia-do-dien-thoai-snapgrip-099",
+    "description": "Gia do dien thoai SnapGrip 099 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Smartphone",
+    "categoryId": "category-smartphone-mobile-devices",
+    "tags": [
+      "limited",
+      "premium",
+      "smartphone"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8870000,
+    "priceOriginal": 9855000,
+    "discountPercentage": 10,
+    "inStock": true,
+    "stockQuanlity": 47,
+    "soldOut": 146,
+    "rating": 4,
+    "reviewsCount": 182,
+    "createAt": "2026-04-09T08:00:00.000Z",
+    "updateAt": "2026-04-23T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-SMA-099",
+      "brand": "Zen",
+      "color": "Blue",
+      "warrantyMonths": 18,
+      "featured": false,
+      "shippingClass": "fragile"
+    }
+  },
+  {
+    "id": "prod-100",
+    "name": "O cung SSD HyperDrive 100",
+    "slug": "o-cung-ssd-hyperdrive-100",
+    "description": "O cung SSD HyperDrive 100 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "categoryName": "Accessory",
+    "categoryId": "category-accessories-daily-tech",
+    "tags": [
+      "budget",
+      "popular",
+      "accessory"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "price": 8756000,
+    "priceOriginal": 9950000,
+    "discountPercentage": 12,
+    "inStock": true,
+    "stockQuanlity": 50,
+    "soldOut": 153,
+    "rating": 4.1,
+    "reviewsCount": 187,
+    "createAt": "2026-04-10T08:00:00.000Z",
+    "updateAt": "2026-04-24T08:00:00.000Z",
+    "metadata": {
+      "sku": "SKU-ACC-100",
+      "brand": "Orbit",
+      "color": "Orange",
+      "warrantyMonths": 24,
+      "featured": true,
+      "shippingClass": "standard"
+    }
+  }
+]
