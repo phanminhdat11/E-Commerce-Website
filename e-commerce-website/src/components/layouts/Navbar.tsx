@@ -4,12 +4,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
     faBell,
     faEnvelope,
+    faMessage,
     faShop,
     faSun,
 } from "@fortawesome/free-solid-svg-icons";
 import { faCartArrowDown } from "@fortawesome/free-solid-svg-icons/faCartArrowDown";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { redirect, useRouter } from "next/navigation";
 import IconButton from "../ui/IconButton";
 
 const avatarUrl =
@@ -44,9 +45,9 @@ export default function Navbar() {
                     </span>
                 </button>
                 <div className="flex items-center gap-2 sm:gap-3 md:gap-4">
-                    <IconButton route="/cart" ariaLabel={"Giỏ hàng"} icon={faCartArrowDown} />
-                    <IconButton route={""} ariaLabel={"Thông báo"} icon={faBell} />
-                    <IconButton route={""} ariaLabel={"Tin nhắn"} icon={faEnvelope} />
+                    <IconButton value={4} variant="secondary" ariaLabel={"Giỏ hàng"} icon={faCartArrowDown} />
+                    <IconButton value={0} variant="outline" ariaLabel={"Thông báo"} icon={faBell} />
+                    <IconButton value={0} variant="danger" ariaLabel={"Tin nhắn"} icon={faMessage} />
                     <Link
                         href="/profile"
                         className="flex h-10 w-10 flex-none items-center justify-center overflow-hidden rounded-full border-2 border-orange-200 bg-white p-1 shadow-sm transition active:scale-95 md:h-11 md:w-11"
