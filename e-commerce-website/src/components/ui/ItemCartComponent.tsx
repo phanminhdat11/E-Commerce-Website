@@ -2,6 +2,7 @@ import { Product } from "@/lib/redux/products/productSice";
 import { faCartArrowDown, faLocation, faStar } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
+import IconButton from "./IconButton";
 
 
 type Props = {
@@ -14,13 +15,10 @@ export default function ItemCardComponent({ product }: Props) {
     const hanldeConvertPriceToVND = (price: number) => {
         return new Intl.NumberFormat("vi-VN").format(price) + " VND"
     }
-    const checkData = () => {
-        console.log(product)
-    }
 
     return (
         <Link href="/shop/product" className="group block h-full">
-            <div onClick={()=>{checkData()}} className="flex h-full flex-col overflow-hidden rounded-sm border border-slate-200 bg-white shadow-sm transition duration-300 group-hover:-translate-y-1 group-hover:shadow-lg group-hover:bg-orange-50">
+            <div className="flex h-full flex-col overflow-hidden rounded-sm border border-slate-200 bg-white shadow-sm transition duration-300 group-hover:-translate-y-1 group-hover:shadow-lg group-hover:bg-orange-50">
                 <div className="flex aspect-[4/3] items-center justify-center bg-slate-50 p-4 sm:p-5">
                     <img
                         className="h-full max-h-44 w-full object-contain"
@@ -34,8 +32,18 @@ export default function ItemCardComponent({ product }: Props) {
                         <span className="text-lg font-semibold text-orange-700 sm:text-xl">
                             {hanldeConvertPriceToVND(product.price ?? 0)}
                         </span>
-                        <span className="text-sm text-gray-400 line-through">{hanldeConvertPriceToVND(product.priceOriginal?? 0)}</span>
-                        <span className="text-orange-600 font-medium text-xm p-1 bg-gray-100 rounded-lg">-{product.discountPercentage} %</span>
+                        <span className="text-sm text-gray-400 line-through">
+                            {
+                                hanldeConvertPriceToVND(product.priceOriginal ?? 0) != hanldeConvertPriceToVND(product.price ?? 0) 
+                                ? hanldeConvertPriceToVND(product.priceOriginal ?? 0) : ''
+                            }
+                        </span>
+                        <span className="text-orange-600 font-medium text-xm p-1 bg-gray-100 rounded-lg">
+                            {
+                                product.discountPercentage! > 0 ?
+                                    `-${product.discountPercentage}%` : ''
+                            }
+                        </span>
                     </div>
 
                     <h3 className="line-clamp-2 text-sm leading-6 text-gray-800 sm:text-xl font-medium">
@@ -51,7 +59,7 @@ export default function ItemCardComponent({ product }: Props) {
                             </div>
                             <span className="mt-1 block truncate text-xs text-gray-500">{product.soldOut} Đã bán</span>
                         </div>
-
+{/* 
                         <button
                             type="button"
                             onClick={(e) => {
@@ -63,7 +71,8 @@ export default function ItemCardComponent({ product }: Props) {
                             aria-label="Add item to cart"
                         >
                             <FontAwesomeIcon icon={faCartArrowDown} className="text-sm" />
-                        </button>
+                        </button> */}
+                        <IconButton value={0} variant="primary" ariaLabel={"Thêm vào giỏ hàng"} icon={faCartArrowDown}/>
                     </div>
                 </div>
             </div>

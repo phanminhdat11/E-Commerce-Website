@@ -24,7 +24,7 @@ export default function Sidebar() {
   return (
     <>
       <aside
-        className={`fixed left-0 top-16 z-40 hidden h-[calc(100vh-4rem)] border-r border-slate-200 bg-white/95 px-3 py-4 backdrop-blur transition-all duration-300 md:block md:top-20 md:h-[calc(100vh-5rem)] ${
+        className={`fixed left-0 top-16 z-40 hidden h-[calc(100vh-4rem)]  border-slate-200 bg-white/95 px-3 py-4 backdrop-blur transition-all duration-300 md:block md:top-20 md:h-[calc(100vh-5rem)] ${
           collapsed ? "md:w-20" : "md:w-64"
         }`}
       >

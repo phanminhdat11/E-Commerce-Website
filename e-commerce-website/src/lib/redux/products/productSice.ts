@@ -27,12 +27,14 @@ export interface ProductState {
     listDataProduct: Product[],
     loading: boolean,
     error: string | undefined
+    searchKeyword: string
 }
 
 const initialState: ProductState = {
     listDataProduct: [],
     loading: false,
-    error: undefined
+    error: undefined,
+    searchKeyword: ""
 }
 
 export const fetchProduct = createAsyncThunk(
@@ -51,6 +53,9 @@ const productSlice = createSlice({
     reducers: {
         setProduct(state, action: PayloadAction<Product[]>) {
             state.listDataProduct = action.payload
+        },
+        setSearchKeyword: (state, action: PayloadAction<string>) => {
+            state.searchKeyword  = action.payload
         }
     },
     extraReducers: (builder) => {
@@ -70,5 +75,5 @@ const productSlice = createSlice({
     },
 })
 
-export const { setProduct } = productSlice.actions;
+export const { setProduct, setSearchKeyword } = productSlice.actions;
 export default productSlice.reducer;

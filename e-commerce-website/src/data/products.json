@@ -3,7 +3,7 @@
     "id": "prod-001",
     "name": "Loa mini Nebula Sound 001",
     "slug": "loa-mini-nebula-sound-001",
-    "description": "Loa mini Nebula Sound 001 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa mini Nebula Sound 001 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -39,7 +39,7 @@
     "id": "prod-002",
     "name": "Laptop AeroBook Pro 14 002",
     "slug": "laptop-aerobook-pro-14-002",
-    "description": "Laptop AeroBook Pro 14 002 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Laptop AeroBook Pro 14 002 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -73,9 +73,9 @@
   },
   {
     "id": "prod-003",
-    "name": "Dien thoai Pulse X 003",
+    "name": "Điện thoại Pulse X 003",
     "slug": "dien-thoai-pulse-x-003",
-    "description": "Dien thoai Pulse X 003 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Điện thoại Pulse X 003 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -111,7 +111,7 @@
     "id": "prod-004",
     "name": "Tai nghe true wireless Orbit 004",
     "slug": "tai-nghe-true-wireless-orbit-004",
-    "description": "Tai nghe true wireless Orbit 004 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe true wireless Orbit 004 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -145,9 +145,9 @@
   },
   {
     "id": "prod-005",
-    "name": "Ban phim co Nova 005",
+    "name": "Bàn phím cơ Nova 005",
     "slug": "ban-phim-co-nova-005",
-    "description": "Ban phim co Nova 005 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Bàn phím cơ Nova 005 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -181,9 +181,9 @@
   },
   {
     "id": "prod-006",
-    "name": "Chuot khong day Glide Precision 006",
+    "name": "Chuột không dây Glide Precision 006",
     "slug": "chuot-khong-day-glide-precision-006",
-    "description": "Chuot khong day Glide Precision 006 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Chuột không dây Glide Precision 006 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -217,9 +217,9 @@
   },
   {
     "id": "prod-007",
-    "name": "Man hinh Vision 4K 007",
+    "name": "Màn hình Vision 4K 007",
     "slug": "man-hinh-vision-4k-007",
-    "description": "Man hinh Vision 4K 007 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Màn hình Vision 4K 007 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -253,9 +253,9 @@
   },
   {
     "id": "prod-008",
-    "name": "Pin du phong ZenCharge 008",
+    "name": "Pin dự phòng ZenCharge 008",
     "slug": "pin-du-phong-zencharge-008",
-    "description": "Pin du phong ZenCharge 008 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Pin dự phòng ZenCharge 008 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -289,9 +289,9 @@
   },
   {
     "id": "prod-009",
-    "name": "Tai nghe chong on Cloud ANC 009",
+    "name": "Tai nghe chống ồn Cloud ANC 009",
     "slug": "tai-nghe-chong-on-cloud-anc-009",
-    "description": "Tai nghe chong on Cloud ANC 009 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe chống ồn Cloud ANC 009 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -327,7 +327,7 @@
     "id": "prod-010",
     "name": "Camera StreamCam Pro 010",
     "slug": "camera-streamcam-pro-010",
-    "description": "Camera StreamCam Pro 010 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Camera StreamCam Pro 010 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -361,9 +361,9 @@
   },
   {
     "id": "prod-011",
-    "name": "Dong ho thong minh Spark 011",
+    "name": "Đồng hồ thông minh Spark 011",
     "slug": "dong-ho-thong-minh-spark-011",
-    "description": "Dong ho thong minh Spark 011 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đồng hồ thông minh Spark 011 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -397,9 +397,9 @@
   },
   {
     "id": "prod-012",
-    "name": "Hub chuyen doi Fusion USB-C 012",
+    "name": "Hub chuyển đổi Fusion USB-C 012",
     "slug": "hub-chuyen-doi-fusion-usb-c-012",
-    "description": "Hub chuyen doi Fusion USB-C 012 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Hub chuyển đổi Fusion USB-C 012 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -433,9 +433,9 @@
   },
   {
     "id": "prod-013",
-    "name": "Loa di dong Echo 013",
+    "name": "Loa di động Echo 013",
     "slug": "loa-di-dong-echo-013",
-    "description": "Loa di dong Echo 013 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa di động Echo 013 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -469,9 +469,9 @@
   },
   {
     "id": "prod-014",
-    "name": "Ghe gaming Titan 014",
+    "name": "Ghế gaming Titan 014",
     "slug": "ghe-gaming-titan-014",
-    "description": "Ghe gaming Titan 014 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ghế gaming Titan 014 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -505,9 +505,9 @@
   },
   {
     "id": "prod-015",
-    "name": "May tinh bang Pixel Tablet Air 015",
+    "name": "Máy tính bảng Pixel Tablet Air 015",
     "slug": "may-tinh-bang-pixel-tablet-air-015",
-    "description": "May tinh bang Pixel Tablet Air 015 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Máy tính bảng Pixel Tablet Air 015 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -541,9 +541,9 @@
   },
   {
     "id": "prod-016",
-    "name": "Den ban Luma 016",
+    "name": "Đèn bàn Luma 016",
     "slug": "den-ban-luma-016",
-    "description": "Den ban Luma 016 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đèn bàn Luma 016 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -577,9 +577,9 @@
   },
   {
     "id": "prod-017",
-    "name": "Vong deo suc khoe CoreFit 017",
+    "name": "Vòng đeo sức khỏe CoreFit 017",
     "slug": "vong-deo-suc-khoe-corefit-017",
-    "description": "Vong deo suc khoe CoreFit 017 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Vòng đeo sức khỏe CoreFit 017 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -613,9 +613,9 @@
   },
   {
     "id": "prod-018",
-    "name": "Cu sac nhanh RapidCharge 018",
+    "name": "Củ sạc nhanh RapidCharge 018",
     "slug": "cu-sac-nhanh-rapidcharge-018",
-    "description": "Cu sac nhanh RapidCharge 018 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Củ sạc nhanh RapidCharge 018 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -649,9 +649,9 @@
   },
   {
     "id": "prod-019",
-    "name": "Gia do dien thoai SnapGrip 019",
+    "name": "Giá đỡ điện thoại SnapGrip 019",
     "slug": "gia-do-dien-thoai-snapgrip-019",
-    "description": "Gia do dien thoai SnapGrip 019 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Giá đỡ điện thoại SnapGrip 019 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -685,9 +685,9 @@
   },
   {
     "id": "prod-020",
-    "name": "O cung SSD HyperDrive 020",
+    "name": "Ổ cứng SSD HyperDrive 020",
     "slug": "o-cung-ssd-hyperdrive-020",
-    "description": "O cung SSD HyperDrive 020 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ổ cứng SSD HyperDrive 020 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -723,7 +723,7 @@
     "id": "prod-021",
     "name": "Loa mini Nebula Sound 021",
     "slug": "loa-mini-nebula-sound-021",
-    "description": "Loa mini Nebula Sound 021 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa mini Nebula Sound 021 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -759,7 +759,7 @@
     "id": "prod-022",
     "name": "Laptop AeroBook Pro 14 022",
     "slug": "laptop-aerobook-pro-14-022",
-    "description": "Laptop AeroBook Pro 14 022 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Laptop AeroBook Pro 14 022 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -793,9 +793,9 @@
   },
   {
     "id": "prod-023",
-    "name": "Dien thoai Pulse X 023",
+    "name": "Điện thoại Pulse X 023",
     "slug": "dien-thoai-pulse-x-023",
-    "description": "Dien thoai Pulse X 023 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Điện thoại Pulse X 023 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -831,7 +831,7 @@
     "id": "prod-024",
     "name": "Tai nghe true wireless Orbit 024",
     "slug": "tai-nghe-true-wireless-orbit-024",
-    "description": "Tai nghe true wireless Orbit 024 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe true wireless Orbit 024 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -865,9 +865,9 @@
   },
   {
     "id": "prod-025",
-    "name": "Ban phim co Nova 025",
+    "name": "Bàn phím cơ Nova 025",
     "slug": "ban-phim-co-nova-025",
-    "description": "Ban phim co Nova 025 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Bàn phím cơ Nova 025 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -901,9 +901,9 @@
   },
   {
     "id": "prod-026",
-    "name": "Chuot khong day Glide Precision 026",
+    "name": "Chuột không dây Glide Precision 026",
     "slug": "chuot-khong-day-glide-precision-026",
-    "description": "Chuot khong day Glide Precision 026 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Chuột không dây Glide Precision 026 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -937,9 +937,9 @@
   },
   {
     "id": "prod-027",
-    "name": "Man hinh Vision 4K 027",
+    "name": "Màn hình Vision 4K 027",
     "slug": "man-hinh-vision-4k-027",
-    "description": "Man hinh Vision 4K 027 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Màn hình Vision 4K 027 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -973,9 +973,9 @@
   },
   {
     "id": "prod-028",
-    "name": "Pin du phong ZenCharge 028",
+    "name": "Pin dự phòng ZenCharge 028",
     "slug": "pin-du-phong-zencharge-028",
-    "description": "Pin du phong ZenCharge 028 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Pin dự phòng ZenCharge 028 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -1009,9 +1009,9 @@
   },
   {
     "id": "prod-029",
-    "name": "Tai nghe chong on Cloud ANC 029",
+    "name": "Tai nghe chống ồn Cloud ANC 029",
     "slug": "tai-nghe-chong-on-cloud-anc-029",
-    "description": "Tai nghe chong on Cloud ANC 029 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe chống ồn Cloud ANC 029 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -1047,7 +1047,7 @@
     "id": "prod-030",
     "name": "Camera StreamCam Pro 030",
     "slug": "camera-streamcam-pro-030",
-    "description": "Camera StreamCam Pro 030 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Camera StreamCam Pro 030 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -1081,9 +1081,9 @@
   },
   {
     "id": "prod-031",
-    "name": "Dong ho thong minh Spark 031",
+    "name": "Đồng hồ thông minh Spark 031",
     "slug": "dong-ho-thong-minh-spark-031",
-    "description": "Dong ho thong minh Spark 031 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đồng hồ thông minh Spark 031 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -1117,9 +1117,9 @@
   },
   {
     "id": "prod-032",
-    "name": "Hub chuyen doi Fusion USB-C 032",
+    "name": "Hub chuyển đổi Fusion USB-C 032",
     "slug": "hub-chuyen-doi-fusion-usb-c-032",
-    "description": "Hub chuyen doi Fusion USB-C 032 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Hub chuyển đổi Fusion USB-C 032 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -1153,9 +1153,9 @@
   },
   {
     "id": "prod-033",
-    "name": "Loa di dong Echo 033",
+    "name": "Loa di động Echo 033",
     "slug": "loa-di-dong-echo-033",
-    "description": "Loa di dong Echo 033 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa di động Echo 033 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -1189,9 +1189,9 @@
   },
   {
     "id": "prod-034",
-    "name": "Ghe gaming Titan 034",
+    "name": "Ghế gaming Titan 034",
     "slug": "ghe-gaming-titan-034",
-    "description": "Ghe gaming Titan 034 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ghế gaming Titan 034 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -1225,9 +1225,9 @@
   },
   {
     "id": "prod-035",
-    "name": "May tinh bang Pixel Tablet Air 035",
+    "name": "Máy tính bảng Pixel Tablet Air 035",
     "slug": "may-tinh-bang-pixel-tablet-air-035",
-    "description": "May tinh bang Pixel Tablet Air 035 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Máy tính bảng Pixel Tablet Air 035 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -1261,9 +1261,9 @@
   },
   {
     "id": "prod-036",
-    "name": "Den ban Luma 036",
+    "name": "Đèn bàn Luma 036",
     "slug": "den-ban-luma-036",
-    "description": "Den ban Luma 036 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đèn bàn Luma 036 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -1297,9 +1297,9 @@
   },
   {
     "id": "prod-037",
-    "name": "Vong deo suc khoe CoreFit 037",
+    "name": "Vòng đeo sức khỏe CoreFit 037",
     "slug": "vong-deo-suc-khoe-corefit-037",
-    "description": "Vong deo suc khoe CoreFit 037 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Vòng đeo sức khỏe CoreFit 037 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -1333,9 +1333,9 @@
   },
   {
     "id": "prod-038",
-    "name": "Cu sac nhanh RapidCharge 038",
+    "name": "Củ sạc nhanh RapidCharge 038",
     "slug": "cu-sac-nhanh-rapidcharge-038",
-    "description": "Cu sac nhanh RapidCharge 038 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Củ sạc nhanh RapidCharge 038 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -1369,9 +1369,9 @@
   },
   {
     "id": "prod-039",
-    "name": "Gia do dien thoai SnapGrip 039",
+    "name": "Giá đỡ điện thoại SnapGrip 039",
     "slug": "gia-do-dien-thoai-snapgrip-039",
-    "description": "Gia do dien thoai SnapGrip 039 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Giá đỡ điện thoại SnapGrip 039 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -1405,9 +1405,9 @@
   },
   {
     "id": "prod-040",
-    "name": "O cung SSD HyperDrive 040",
+    "name": "Ổ cứng SSD HyperDrive 040",
     "slug": "o-cung-ssd-hyperdrive-040",
-    "description": "O cung SSD HyperDrive 040 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ổ cứng SSD HyperDrive 040 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -1443,7 +1443,7 @@
     "id": "prod-041",
     "name": "Loa mini Nebula Sound 041",
     "slug": "loa-mini-nebula-sound-041",
-    "description": "Loa mini Nebula Sound 041 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa mini Nebula Sound 041 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -1479,7 +1479,7 @@
     "id": "prod-042",
     "name": "Laptop AeroBook Pro 14 042",
     "slug": "laptop-aerobook-pro-14-042",
-    "description": "Laptop AeroBook Pro 14 042 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Laptop AeroBook Pro 14 042 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -1513,9 +1513,9 @@
   },
   {
     "id": "prod-043",
-    "name": "Dien thoai Pulse X 043",
+    "name": "Điện thoại Pulse X 043",
     "slug": "dien-thoai-pulse-x-043",
-    "description": "Dien thoai Pulse X 043 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Điện thoại Pulse X 043 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -1551,7 +1551,7 @@
     "id": "prod-044",
     "name": "Tai nghe true wireless Orbit 044",
     "slug": "tai-nghe-true-wireless-orbit-044",
-    "description": "Tai nghe true wireless Orbit 044 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe true wireless Orbit 044 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -1585,9 +1585,9 @@
   },
   {
     "id": "prod-045",
-    "name": "Ban phim co Nova 045",
+    "name": "Bàn phím cơ Nova 045",
     "slug": "ban-phim-co-nova-045",
-    "description": "Ban phim co Nova 045 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Bàn phím cơ Nova 045 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -1621,9 +1621,9 @@
   },
   {
     "id": "prod-046",
-    "name": "Chuot khong day Glide Precision 046",
+    "name": "Chuột không dây Glide Precision 046",
     "slug": "chuot-khong-day-glide-precision-046",
-    "description": "Chuot khong day Glide Precision 046 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Chuột không dây Glide Precision 046 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -1657,9 +1657,9 @@
   },
   {
     "id": "prod-047",
-    "name": "Man hinh Vision 4K 047",
+    "name": "Màn hình Vision 4K 047",
     "slug": "man-hinh-vision-4k-047",
-    "description": "Man hinh Vision 4K 047 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Màn hình Vision 4K 047 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -1693,9 +1693,9 @@
   },
   {
     "id": "prod-048",
-    "name": "Pin du phong ZenCharge 048",
+    "name": "Pin dự phòng ZenCharge 048",
     "slug": "pin-du-phong-zencharge-048",
-    "description": "Pin du phong ZenCharge 048 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Pin dự phòng ZenCharge 048 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -1729,9 +1729,9 @@
   },
   {
     "id": "prod-049",
-    "name": "Tai nghe chong on Cloud ANC 049",
+    "name": "Tai nghe chống ồn Cloud ANC 049",
     "slug": "tai-nghe-chong-on-cloud-anc-049",
-    "description": "Tai nghe chong on Cloud ANC 049 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe chống ồn Cloud ANC 049 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -1767,7 +1767,7 @@
     "id": "prod-050",
     "name": "Camera StreamCam Pro 050",
     "slug": "camera-streamcam-pro-050",
-    "description": "Camera StreamCam Pro 050 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Camera StreamCam Pro 050 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -1801,9 +1801,9 @@
   },
   {
     "id": "prod-051",
-    "name": "Dong ho thong minh Spark 051",
+    "name": "Đồng hồ thông minh Spark 051",
     "slug": "dong-ho-thong-minh-spark-051",
-    "description": "Dong ho thong minh Spark 051 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đồng hồ thông minh Spark 051 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -1837,9 +1837,9 @@
   },
   {
     "id": "prod-052",
-    "name": "Hub chuyen doi Fusion USB-C 052",
+    "name": "Hub chuyển đổi Fusion USB-C 052",
     "slug": "hub-chuyen-doi-fusion-usb-c-052",
-    "description": "Hub chuyen doi Fusion USB-C 052 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Hub chuyển đổi Fusion USB-C 052 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -1873,9 +1873,9 @@
   },
   {
     "id": "prod-053",
-    "name": "Loa di dong Echo 053",
+    "name": "Loa di động Echo 053",
     "slug": "loa-di-dong-echo-053",
-    "description": "Loa di dong Echo 053 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa di động Echo 053 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -1909,9 +1909,9 @@
   },
   {
     "id": "prod-054",
-    "name": "Ghe gaming Titan 054",
+    "name": "Ghế gaming Titan 054",
     "slug": "ghe-gaming-titan-054",
-    "description": "Ghe gaming Titan 054 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ghế gaming Titan 054 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -1945,9 +1945,9 @@
   },
   {
     "id": "prod-055",
-    "name": "May tinh bang Pixel Tablet Air 055",
+    "name": "Máy tính bảng Pixel Tablet Air 055",
     "slug": "may-tinh-bang-pixel-tablet-air-055",
-    "description": "May tinh bang Pixel Tablet Air 055 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Máy tính bảng Pixel Tablet Air 055 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -1981,9 +1981,9 @@
   },
   {
     "id": "prod-056",
-    "name": "Den ban Luma 056",
+    "name": "Đèn bàn Luma 056",
     "slug": "den-ban-luma-056",
-    "description": "Den ban Luma 056 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đèn bàn Luma 056 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -2017,9 +2017,9 @@
   },
   {
     "id": "prod-057",
-    "name": "Vong deo suc khoe CoreFit 057",
+    "name": "Vòng đeo sức khỏe CoreFit 057",
     "slug": "vong-deo-suc-khoe-corefit-057",
-    "description": "Vong deo suc khoe CoreFit 057 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Vòng đeo sức khỏe CoreFit 057 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -2053,9 +2053,9 @@
   },
   {
     "id": "prod-058",
-    "name": "Cu sac nhanh RapidCharge 058",
+    "name": "Củ sạc nhanh RapidCharge 058",
     "slug": "cu-sac-nhanh-rapidcharge-058",
-    "description": "Cu sac nhanh RapidCharge 058 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Củ sạc nhanh RapidCharge 058 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -2089,9 +2089,9 @@
   },
   {
     "id": "prod-059",
-    "name": "Gia do dien thoai SnapGrip 059",
+    "name": "Giá đỡ điện thoại SnapGrip 059",
     "slug": "gia-do-dien-thoai-snapgrip-059",
-    "description": "Gia do dien thoai SnapGrip 059 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Giá đỡ điện thoại SnapGrip 059 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -2125,9 +2125,9 @@
   },
   {
     "id": "prod-060",
-    "name": "O cung SSD HyperDrive 060",
+    "name": "Ổ cứng SSD HyperDrive 060",
     "slug": "o-cung-ssd-hyperdrive-060",
-    "description": "O cung SSD HyperDrive 060 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ổ cứng SSD HyperDrive 060 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -2163,7 +2163,7 @@
     "id": "prod-061",
     "name": "Loa mini Nebula Sound 061",
     "slug": "loa-mini-nebula-sound-061",
-    "description": "Loa mini Nebula Sound 061 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa mini Nebula Sound 061 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -2199,7 +2199,7 @@
     "id": "prod-062",
     "name": "Laptop AeroBook Pro 14 062",
     "slug": "laptop-aerobook-pro-14-062",
-    "description": "Laptop AeroBook Pro 14 062 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Laptop AeroBook Pro 14 062 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -2233,9 +2233,9 @@
   },
   {
     "id": "prod-063",
-    "name": "Dien thoai Pulse X 063",
+    "name": "Điện thoại Pulse X 063",
     "slug": "dien-thoai-pulse-x-063",
-    "description": "Dien thoai Pulse X 063 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Điện thoại Pulse X 063 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -2271,7 +2271,7 @@
     "id": "prod-064",
     "name": "Tai nghe true wireless Orbit 064",
     "slug": "tai-nghe-true-wireless-orbit-064",
-    "description": "Tai nghe true wireless Orbit 064 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe true wireless Orbit 064 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -2305,9 +2305,9 @@
   },
   {
     "id": "prod-065",
-    "name": "Ban phim co Nova 065",
+    "name": "Bàn phím cơ Nova 065",
     "slug": "ban-phim-co-nova-065",
-    "description": "Ban phim co Nova 065 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Bàn phím cơ Nova 065 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -2341,9 +2341,9 @@
   },
   {
     "id": "prod-066",
-    "name": "Chuot khong day Glide Precision 066",
+    "name": "Chuột không dây Glide Precision 066",
     "slug": "chuot-khong-day-glide-precision-066",
-    "description": "Chuot khong day Glide Precision 066 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Chuột không dây Glide Precision 066 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -2377,9 +2377,9 @@
   },
   {
     "id": "prod-067",
-    "name": "Man hinh Vision 4K 067",
+    "name": "Màn hình Vision 4K 067",
     "slug": "man-hinh-vision-4k-067",
-    "description": "Man hinh Vision 4K 067 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Màn hình Vision 4K 067 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -2413,9 +2413,9 @@
   },
   {
     "id": "prod-068",
-    "name": "Pin du phong ZenCharge 068",
+    "name": "Pin dự phòng ZenCharge 068",
     "slug": "pin-du-phong-zencharge-068",
-    "description": "Pin du phong ZenCharge 068 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Pin dự phòng ZenCharge 068 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -2449,9 +2449,9 @@
   },
   {
     "id": "prod-069",
-    "name": "Tai nghe chong on Cloud ANC 069",
+    "name": "Tai nghe chống ồn Cloud ANC 069",
     "slug": "tai-nghe-chong-on-cloud-anc-069",
-    "description": "Tai nghe chong on Cloud ANC 069 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe chống ồn Cloud ANC 069 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -2487,7 +2487,7 @@
     "id": "prod-070",
     "name": "Camera StreamCam Pro 070",
     "slug": "camera-streamcam-pro-070",
-    "description": "Camera StreamCam Pro 070 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Camera StreamCam Pro 070 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -2521,9 +2521,9 @@
   },
   {
     "id": "prod-071",
-    "name": "Dong ho thong minh Spark 071",
+    "name": "Đồng hồ thông minh Spark 071",
     "slug": "dong-ho-thong-minh-spark-071",
-    "description": "Dong ho thong minh Spark 071 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đồng hồ thông minh Spark 071 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -2557,9 +2557,9 @@
   },
   {
     "id": "prod-072",
-    "name": "Hub chuyen doi Fusion USB-C 072",
+    "name": "Hub chuyển đổi Fusion USB-C 072",
     "slug": "hub-chuyen-doi-fusion-usb-c-072",
-    "description": "Hub chuyen doi Fusion USB-C 072 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Hub chuyển đổi Fusion USB-C 072 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -2593,9 +2593,9 @@
   },
   {
     "id": "prod-073",
-    "name": "Loa di dong Echo 073",
+    "name": "Loa di động Echo 073",
     "slug": "loa-di-dong-echo-073",
-    "description": "Loa di dong Echo 073 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa di động Echo 073 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -2629,9 +2629,9 @@
   },
   {
     "id": "prod-074",
-    "name": "Ghe gaming Titan 074",
+    "name": "Ghế gaming Titan 074",
     "slug": "ghe-gaming-titan-074",
-    "description": "Ghe gaming Titan 074 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ghế gaming Titan 074 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -2665,9 +2665,9 @@
   },
   {
     "id": "prod-075",
-    "name": "May tinh bang Pixel Tablet Air 075",
+    "name": "Máy tính bảng Pixel Tablet Air 075",
     "slug": "may-tinh-bang-pixel-tablet-air-075",
-    "description": "May tinh bang Pixel Tablet Air 075 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Máy tính bảng Pixel Tablet Air 075 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -2701,9 +2701,9 @@
   },
   {
     "id": "prod-076",
-    "name": "Den ban Luma 076",
+    "name": "Đèn bàn Luma 076",
     "slug": "den-ban-luma-076",
-    "description": "Den ban Luma 076 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đèn bàn Luma 076 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -2737,9 +2737,9 @@
   },
   {
     "id": "prod-077",
-    "name": "Vong deo suc khoe CoreFit 077",
+    "name": "Vòng đeo sức khỏe CoreFit 077",
     "slug": "vong-deo-suc-khoe-corefit-077",
-    "description": "Vong deo suc khoe CoreFit 077 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Vòng đeo sức khỏe CoreFit 077 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -2773,9 +2773,9 @@
   },
   {
     "id": "prod-078",
-    "name": "Cu sac nhanh RapidCharge 078",
+    "name": "Củ sạc nhanh RapidCharge 078",
     "slug": "cu-sac-nhanh-rapidcharge-078",
-    "description": "Cu sac nhanh RapidCharge 078 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Củ sạc nhanh RapidCharge 078 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -2809,9 +2809,9 @@
   },
   {
     "id": "prod-079",
-    "name": "Gia do dien thoai SnapGrip 079",
+    "name": "Giá đỡ điện thoại SnapGrip 079",
     "slug": "gia-do-dien-thoai-snapgrip-079",
-    "description": "Gia do dien thoai SnapGrip 079 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Giá đỡ điện thoại SnapGrip 079 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -2845,9 +2845,9 @@
   },
   {
     "id": "prod-080",
-    "name": "O cung SSD HyperDrive 080",
+    "name": "Ổ cứng SSD HyperDrive 080",
     "slug": "o-cung-ssd-hyperdrive-080",
-    "description": "O cung SSD HyperDrive 080 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ổ cứng SSD HyperDrive 080 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -2883,7 +2883,7 @@
     "id": "prod-081",
     "name": "Loa mini Nebula Sound 081",
     "slug": "loa-mini-nebula-sound-081",
-    "description": "Loa mini Nebula Sound 081 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa mini Nebula Sound 081 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -2919,7 +2919,7 @@
     "id": "prod-082",
     "name": "Laptop AeroBook Pro 14 082",
     "slug": "laptop-aerobook-pro-14-082",
-    "description": "Laptop AeroBook Pro 14 082 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Laptop AeroBook Pro 14 082 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -2953,9 +2953,9 @@
   },
   {
     "id": "prod-083",
-    "name": "Dien thoai Pulse X 083",
+    "name": "Điện thoại Pulse X 083",
     "slug": "dien-thoai-pulse-x-083",
-    "description": "Dien thoai Pulse X 083 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Điện thoại Pulse X 083 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -2991,7 +2991,7 @@
     "id": "prod-084",
     "name": "Tai nghe true wireless Orbit 084",
     "slug": "tai-nghe-true-wireless-orbit-084",
-    "description": "Tai nghe true wireless Orbit 084 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe true wireless Orbit 084 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -3025,9 +3025,9 @@
   },
   {
     "id": "prod-085",
-    "name": "Ban phim co Nova 085",
+    "name": "Bàn phím cơ Nova 085",
     "slug": "ban-phim-co-nova-085",
-    "description": "Ban phim co Nova 085 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Bàn phím cơ Nova 085 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -3061,9 +3061,9 @@
   },
   {
     "id": "prod-086",
-    "name": "Chuot khong day Glide Precision 086",
+    "name": "Chuột không dây Glide Precision 086",
     "slug": "chuot-khong-day-glide-precision-086",
-    "description": "Chuot khong day Glide Precision 086 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Chuột không dây Glide Precision 086 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -3097,9 +3097,9 @@
   },
   {
     "id": "prod-087",
-    "name": "Man hinh Vision 4K 087",
+    "name": "Màn hình Vision 4K 087",
     "slug": "man-hinh-vision-4k-087",
-    "description": "Man hinh Vision 4K 087 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Màn hình Vision 4K 087 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -3133,9 +3133,9 @@
   },
   {
     "id": "prod-088",
-    "name": "Pin du phong ZenCharge 088",
+    "name": "Pin dự phòng ZenCharge 088",
     "slug": "pin-du-phong-zencharge-088",
-    "description": "Pin du phong ZenCharge 088 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Pin dự phòng ZenCharge 088 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -3169,9 +3169,9 @@
   },
   {
     "id": "prod-089",
-    "name": "Tai nghe chong on Cloud ANC 089",
+    "name": "Tai nghe chống ồn Cloud ANC 089",
     "slug": "tai-nghe-chong-on-cloud-anc-089",
-    "description": "Tai nghe chong on Cloud ANC 089 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Tai nghe chống ồn Cloud ANC 089 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -3207,7 +3207,7 @@
     "id": "prod-090",
     "name": "Camera StreamCam Pro 090",
     "slug": "camera-streamcam-pro-090",
-    "description": "Camera StreamCam Pro 090 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Camera StreamCam Pro 090 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -3241,9 +3241,9 @@
   },
   {
     "id": "prod-091",
-    "name": "Dong ho thong minh Spark 091",
+    "name": "Đồng hồ thông minh Spark 091",
     "slug": "dong-ho-thong-minh-spark-091",
-    "description": "Dong ho thong minh Spark 091 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đồng hồ thông minh Spark 091 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -3277,9 +3277,9 @@
   },
   {
     "id": "prod-092",
-    "name": "Hub chuyen doi Fusion USB-C 092",
+    "name": "Hub chuyển đổi Fusion USB-C 092",
     "slug": "hub-chuyen-doi-fusion-usb-c-092",
-    "description": "Hub chuyen doi Fusion USB-C 092 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Hub chuyển đổi Fusion USB-C 092 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [
@@ -3313,9 +3313,9 @@
   },
   {
     "id": "prod-093",
-    "name": "Loa di dong Echo 093",
+    "name": "Loa di động Echo 093",
     "slug": "loa-di-dong-echo-093",
-    "description": "Loa di dong Echo 093 la san pham gaming duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Loa di động Echo 093 là sản phẩm gaming được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Gaming",
     "categoryId": "category-gaming-gear-performance",
     "tags": [
@@ -3349,9 +3349,9 @@
   },
   {
     "id": "prod-094",
-    "name": "Ghe gaming Titan 094",
+    "name": "Ghế gaming Titan 094",
     "slug": "ghe-gaming-titan-094",
-    "description": "Ghe gaming Titan 094 la san pham cong nghe gia dung duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ghế gaming Titan 094 là sản phẩm công nghệ gia dụng được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Home Tech",
     "categoryId": "category-home-tech-smart-living",
     "tags": [
@@ -3385,9 +3385,9 @@
   },
   {
     "id": "prod-095",
-    "name": "May tinh bang Pixel Tablet Air 095",
+    "name": "Máy tính bảng Pixel Tablet Air 095",
     "slug": "may-tinh-bang-pixel-tablet-air-095",
-    "description": "May tinh bang Pixel Tablet Air 095 la san pham thiet bi deo thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Máy tính bảng Pixel Tablet Air 095 là sản phẩm thiết bị đeo thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Wearable",
     "categoryId": "category-wearable-smart-devices",
     "tags": [
@@ -3421,9 +3421,9 @@
   },
   {
     "id": "prod-096",
-    "name": "Den ban Luma 096",
+    "name": "Đèn bàn Luma 096",
     "slug": "den-ban-luma-096",
-    "description": "Den ban Luma 096 la san pham camera duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Đèn bàn Luma 096 là sản phẩm camera được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Camera",
     "categoryId": "category-camera-imaging-equipment",
     "tags": [
@@ -3457,9 +3457,9 @@
   },
   {
     "id": "prod-097",
-    "name": "Vong deo suc khoe CoreFit 097",
+    "name": "Vòng đeo sức khỏe CoreFit 097",
     "slug": "vong-deo-suc-khoe-corefit-097",
-    "description": "Vong deo suc khoe CoreFit 097 la san pham am thanh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Vòng đeo sức khỏe CoreFit 097 là sản phẩm âm thanh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Audio",
     "categoryId": "category-audio-devices-premium",
     "tags": [
@@ -3493,9 +3493,9 @@
   },
   {
     "id": "prod-098",
-    "name": "Cu sac nhanh RapidCharge 098",
+    "name": "Củ sạc nhanh RapidCharge 098",
     "slug": "cu-sac-nhanh-rapidcharge-098",
-    "description": "Cu sac nhanh RapidCharge 098 la san pham laptop duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Củ sạc nhanh RapidCharge 098 là sản phẩm laptop được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Laptop",
     "categoryId": "category-laptop-computers-premium",
     "tags": [
@@ -3529,9 +3529,9 @@
   },
   {
     "id": "prod-099",
-    "name": "Gia do dien thoai SnapGrip 099",
+    "name": "Giá đỡ điện thoại SnapGrip 099",
     "slug": "gia-do-dien-thoai-snapgrip-099",
-    "description": "Gia do dien thoai SnapGrip 099 la san pham dien thoai thong minh duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Giá đỡ điện thoại SnapGrip 099 là sản phẩm điện thoại thông minh được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Smartphone",
     "categoryId": "category-smartphone-mobile-devices",
     "tags": [
@@ -3565,9 +3565,9 @@
   },
   {
     "id": "prod-100",
-    "name": "O cung SSD HyperDrive 100",
+    "name": "Ổ cứng SSD HyperDrive 100",
     "slug": "o-cung-ssd-hyperdrive-100",
-    "description": "O cung SSD HyperDrive 100 la san pham phu kien duoc tao de kiem thu giao dien cua cua hang. Du lieu bao gom gia ban, ton kho, hinh anh va metadata de ban co the thu nghiem danh sach, chi tiet san pham va bo loc ma khong can thay doi schema cua slice.",
+    "description": "Ổ cứng SSD HyperDrive 100 là sản phẩm phụ kiện được tạo để kiểm thử giao diện của cửa hàng. Dữ liệu bao gồm giá bán, tồn kho, hình ảnh và metadata để bạn có thể thử nghiệm danh sách, chi tiết sản phẩm và bộ lọc mà không cần thay đổi schema của slice.",
     "categoryName": "Accessory",
     "categoryId": "category-accessories-daily-tech",
     "tags": [

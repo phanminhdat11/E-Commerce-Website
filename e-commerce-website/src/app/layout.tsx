@@ -20,17 +20,15 @@ export default function ReduxProvider({
 }) {
   return (
     <html lang="en">
-      <body className={`${leagueSpartan.className} min-h-screen bg-slate-50 text-black`}>
+      <body className={`${leagueSpartan.className} min-h-screen text-black`}>
         <Provider store={store}>
           <header className="fixed inset-x-0 top-0 z-50 border-b border-slate-200 bg-white/95 backdrop-blur">
             <Navbar />
           </header>
-
           <div className="pt-16 md:pt-20">
             <Sidebar />
-
             <main className="min-h-[calc(100vh-4rem)] px-4 py-4 sm:px-5 md:ml-20 md:min-h-[calc(100vh-5rem)] md:px-6 md:py-6 lg:ml-64 lg:px-8">
-              <div className="mx-auto w-full max-w-7xl">{children}</div>
+              {children}
             </main>
           </div>
           <footer>
