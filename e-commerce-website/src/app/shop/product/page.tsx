@@ -30,7 +30,7 @@ export default function ProductDetailPage() {
                 ]}
             />
 
-            <div className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] lg:gap-10">
+            <div className="grid grid-cols-1 gap-6 mt-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] lg:gap-10">
                 <div className="space-y-4">
                     <div className="flex aspect-square items-center justify-center rounded-2xl bg-white p-6 shadow-sm sm:p-8">
                         <img
