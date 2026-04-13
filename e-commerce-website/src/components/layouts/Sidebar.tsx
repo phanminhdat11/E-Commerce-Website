@@ -24,8 +24,8 @@ export default function Sidebar() {
   return (
     <>
       <aside
-        className={`fixed left-0 top-16 z-40 hidden h-[calc(100vh-4rem)]  border-slate-200 bg-white/95 px-3 py-4 backdrop-blur transition-all duration-300 md:block md:top-20 md:h-[calc(100vh-5rem)] ${
-          collapsed ? "md:w-20" : "md:w-64"
+        className={`fixed left-4 top-16 z-40 hidden h-[calc(100vh-4rem)]  border-slate-200 bg-white/95 px-2 py-4 backdrop-blur transition-all duration-300 md:block md:top-20 md:h-[calc(100vh-5rem)] ${
+          collapsed ? "md:w-20" : "md:w-72"
         }`}
       >
         <div className="flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-slate-50/80 p-2 shadow-sm">
@@ -57,10 +57,10 @@ export default function Sidebar() {
                     className={`flex items-center gap-3 rounded-xl px-3 py-3 text-sm font-medium transition ${
                       isActive
                         ? "bg-black text-white shadow-sm"
-                        : "text-slate-700 hover:bg-white"
+                        : "text-slate-700 hover:bg-slate-200"
                     } ${collapsed ? "justify-center" : ""}`}
                   >
-                    <FontAwesomeIcon icon={item.icon} className="text-base" />
+                    <FontAwesomeIcon icon={item.icon} className="text-base size-4" />
 
                     {!collapsed && <span className="truncate">{item.name}</span>}
                   </Link>

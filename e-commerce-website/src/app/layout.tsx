@@ -26,8 +26,10 @@ export default function ReduxProvider({
             <Navbar />
           </header>
           <div className="pt-16 md:pt-20">
-            <Sidebar />
-            <main className="min-h-[calc(100vh-4rem)] px-4 py-4 sm:px-5 md:ml-20 md:min-h-[calc(100vh-5rem)] md:px-6 md:py-6 lg:ml-64 lg:px-8">
+           <div className="">
+             <Sidebar />
+           </div>
+            <main className="min-h-[calc(100vh-4rem)] px-4 py-4 sm:px-5 md:ml-20 md:min-h-[calc(100vh-5rem)] md:px-6 md:py-6 lg:ml-72 lg:px-8">
               {children}
             </main>
           </div>
