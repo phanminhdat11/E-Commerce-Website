@@ -26,7 +26,7 @@ export default function SearchBoxComponent({ placeholder, onSearch }: SearchProp
             .subscribe((value) => {
                 setKeyWordSearch(value);
                 onSearch(value)
-               
+
             })
         return () => subcription.unsubscribe();
     }, [])
