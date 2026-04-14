@@ -75,7 +75,7 @@ export default function ProductDetailPage() {
                                 className="flex aspect-square items-center justify-center rounded-xl border border-slate-200 bg-white p-2 shadow-sm transition active:scale-[0.98]"
                             >
                                 <img
-                                    src="https://songlongmedia.com/media/product/3763_loa_jbl_go_4_black_songlongmedia__1_.jpg"
+                                    src= {product.image}
                                     alt="thumbnail"
                                     className="h-full w-full object-contain"
                                 />

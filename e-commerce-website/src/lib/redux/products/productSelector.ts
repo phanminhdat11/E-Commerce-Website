@@ -20,15 +20,8 @@ export const selectFilteredProduct = (state: RootState) => {
 
     const filtered = listDataProduct.filter( product => {
         const normalizedName = normalizeVietnameseText(product.name);
-        const normalizedCategory = normalizeVietnameseText(product.categoryName ?? "");
-        const normalizedDescription = normalizeVietnameseText(product.description ?? "");
-        const normalizedSlug = normalizeVietnameseText(product.slug ?? "");
-
         const matchingSearch = 
-        normalizedName.includes(keyword) ||
-        normalizedCategory.includes(keyword) ||
-        normalizedDescription.includes(keyword) ||
-        normalizedSlug.includes(keyword);
+        normalizedName.includes(keyword)
         return matchingSearch;
     })
     return filtered;

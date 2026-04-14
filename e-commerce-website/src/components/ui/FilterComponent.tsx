@@ -1,11 +1,15 @@
 "use client";
 
+import { Product } from "@/lib/redux/products/productSice";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
 
+
+
+
 export default function FilterComponent() {
-  const [priceFrom, setPriceFrom] = useState("0 VNĐ");
+  const [priceFrom, setPriceFrom] = useState("0");
   const [priceTo, setPriceTo] = useState("10 000 000 VNĐ");
 
   const [ratingFrom, setRatingFrom] = useState("0 Sao");

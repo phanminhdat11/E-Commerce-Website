@@ -11,7 +11,6 @@ export interface Product {
     image: string
 }
 
-
 export interface ProductState {
     listDataProduct: Product[],
     selectedProductID: string | null
@@ -34,9 +33,9 @@ export const fetchProduct = createAsyncThunk(
     "product/fetchProduct",
     async (_, { rejectWithValue }) => {
         try {
-            const res = await axios.get(`${url_data}/api/products`, {
-            });
+            const res = await axios.get(`${url_data}/api/products`);
             const products = res.data.data.items;
+
             const result = await Promise.all(
                 products.map(async (product: any) => {
                     try {
@@ -46,10 +45,9 @@ export const fetchProduct = createAsyncThunk(
                         const primaryImage = resImg.data.find(
                             (img: any) => img.isPrimary
                         );
-                        const imageUrl = primaryImage?.imageUrl;
                         return {
                             ...product,
-                            image: imageUrl ? url_data + imageUrl : null,
+                            image: primaryImage?.imageUrl || null,
                         };
                     } catch {
                         return {
@@ -65,7 +63,6 @@ export const fetchProduct = createAsyncThunk(
         }
     }
 );
-
 
 const productSlice = createSlice({
     name: 'product',

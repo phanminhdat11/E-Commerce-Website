@@ -20,44 +20,30 @@ import { selectFilteredProduct } from "@/lib/redux/products/productSelector";
 import CardProductComponent from "@/components/ui/CartProdcutComponent";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useHandleClickProduct } from "@/utils/slugify";
+import { useGetPathName } from "@/utils/getPathname";
 
 
 
 export default function ShopPage() {
     const [openFilter, setOpenFilter] = useState(false);
-    const router = useRouter();
-    const pathname = usePathname();
-    const formatTitle = (path: string) =>
-        path.replace("/", "").charAt(0).toUpperCase() + path.slice(2);
-
-    const title = formatTitle(pathname);
-
+    const title = useGetPathName();
+    const { handleClickProduct } = useHandleClickProduct();
     const dispatch = useAppDispatch();
     const productState = useAppSelector((state) => state.products);
     const products = useAppSelector(selectFilteredProduct);
-    const navigationProduct = useHandleClickProduct().handleClickProduct;
 
+    const [product, setProducts] = useState(products);
+    const handleFilter = (from: number, to: number) => {
+        const filtered = products.filter(
+            (p) => p.price >= from && p.price <= to
+        );
+        setProducts(filtered);
+    };
     useEffect(() => {
         dispatch(fetchProduct());
     }, [dispatch]);
-    const slugify = (text?: string): string => {
-        if (!text) return "product";
 
-        return text
-            .toLowerCase()
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "")
-            .replace(/đ/g, "d")
-            .replace(/[^a-z0-9\s-]/g, "")
-            .trim()
-            .replace(/\s+/g, "-")
-            .replace(/-+/g, "-");
-    };
-    const handleClickProduct = (product: { id: string; name?: string }) => {
 
-        const slug = slugify(product.name);
-        router.push(`/production/${slug}/${product.id}`);
-    };
 
 
     return (
@@ -77,7 +63,6 @@ export default function ShopPage() {
                                 },
                             ]}
                         />
-
                         <div className="flex flex-col gap-3 sm:flex-row sm:items-center xl:min-w-[28rem] xl:justify-end">
 
                             <div className="sm:flex-1 xl:w-[600px]">
@@ -119,7 +104,6 @@ export default function ShopPage() {
                 </div>
             </div>
 
-            {/* 🔥 Filter Overlay */}
             {openFilter && (
                 <>
                     <button

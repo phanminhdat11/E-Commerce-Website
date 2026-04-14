@@ -21,13 +21,16 @@ export default function ItemCardComponent({ product, onClick }: Props) {
 
 
     return (
-        <div onClick={onClick}  className="group block h-full">
+        <div onClick={onClick} className="group block h-full">
             <div className="flex h-full flex-col overflow-hidden rounded-sm border border-slate-200 bg-white shadow-sm transition duration-300 group-hover:-translate-y-1 group-hover:shadow-lg group-hover:bg-orange-50">
                 <div className="flex aspect-[4/3] items-center justify-center bg-slate-50 p-4 sm:p-5">
                     <img
                         className="h-full max-h-48 w-full object-fill"
-                        // src={product.image ?? "/placeholder.png"}
-                        src="https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-midnight-2-600x600.jpg"
+                        src={product.image ?? "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/xiaomi_redmi_13x_xanh_5_2f17e30bdd.png"}
+                        onError={(e) => {
+                            e.currentTarget.src =
+                                "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/xiaomi_redmi_13x_xanh_5_2f17e30bdd.png";
+                        }}
                         alt={product.name}
                     />
                 </div>
