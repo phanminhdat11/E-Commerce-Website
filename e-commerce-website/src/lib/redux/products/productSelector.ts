@@ -1,3 +1,4 @@
+import { createSelector } from "reselect";
 import { RootState } from "../store";
 
 const normalizeVietnameseText = (value: string) => {
@@ -9,20 +10,30 @@ const normalizeVietnameseText = (value: string) => {
         .trim();
 };
 
-export const selectFilteredProduct = (state: RootState) => {
+const selectedProductState = (state: RootState) => state.products;
+export const selectFilteredProduct = createSelector(
+    [selectedProductState],
+    (state) => {
+        const { listDataProduct, searchKeyword, filterPrice } = state;
 
-    const {listDataProduct, searchKeyword} = state.products
-    const keyword = normalizeVietnameseText(searchKeyword);
+        let result = [...listDataProduct];
 
-    if (!keyword) {
-        return listDataProduct;
+        const keyword = normalizeVietnameseText(searchKeyword);
+
+        if (keyword) {
+            result = result.filter((p) =>
+                normalizeVietnameseText(p.name).includes(keyword)
+            );
+        }
+
+        if (filterPrice?.minPrice !== null && filterPrice?.minPrice !== undefined) {
+            result = result.filter((p) => p.price >= filterPrice.minPrice!);
+        }
+
+        if (filterPrice?.maxPrice !== null && filterPrice?.maxPrice !== undefined) {
+            result = result.filter((p) => p.price <= filterPrice.maxPrice!);
+        }
+
+        return result;
     }
-
-    const filtered = listDataProduct.filter( product => {
-        const normalizedName = normalizeVietnameseText(product.name);
-        const matchingSearch = 
-        normalizedName.includes(keyword)
-        return matchingSearch;
-    })
-    return filtered;
-}
+);

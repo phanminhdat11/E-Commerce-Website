@@ -31,19 +31,33 @@ export default function SearchBoxComponent({ placeholder, onSearch }: SearchProp
         return () => subcription.unsubscribe();
     }, [])
     return (
-        <label className="flex h-11 w-full min-w-0 items-center rounded-2xl border border-slate-200 bg-white px-4 shadow-sm sm:max-w-sm md:max-w-xl">
+        <label className="flex h-12 w-full min-w-0 items-center rounded-2xl border border-slate-200 bg-white pl-4 pr-1 shadow-sm">
+
+            {/* Icon trái */}
             <FontAwesomeIcon
                 className="size-4 flex-none text-slate-400"
                 icon={faMagnifyingGlass}
             />
+
+            {/* Input */}
             <input
                 ref={inputRef}
                 defaultValue=""
                 placeholder={placeholder}
                 className="ml-3 h-full min-w-0 flex-1 bg-transparent text-sm text-black outline-none placeholder:text-slate-400"
-            />
-        </label>
 
+            />
+
+            <button
+
+                className="flex items-center bg-orange-500 px-4 h-10 rounded-xl justify-center shrink-0 hover:bg-orange-600 transition"
+            >
+                <FontAwesomeIcon
+                    className="size-4 text-white"
+                    icon={faMagnifyingGlass}
+                />
+            </button>
+        </label>
     );
 }
 

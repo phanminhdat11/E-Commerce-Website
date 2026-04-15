@@ -15,6 +15,10 @@ export interface ProductState {
     listDataProduct: Product[],
     selectedProductID: string | null
     searchKeyword: string,
+    filterPrice: {
+        maxPrice: number | null,
+        minPrice: number | null,
+    }
     loading: boolean,
     error: string | undefined
 }
@@ -23,6 +27,10 @@ const initialState: ProductState = {
     listDataProduct: [],
     selectedProductID: null,
     searchKeyword: "",
+    filterPrice: {
+        maxPrice: null,
+        minPrice: null
+    },
     loading: false,
     error: undefined,
 }
@@ -77,12 +85,24 @@ const productSlice = createSlice({
         setSelectedProductID: (state, action: PayloadAction<string>) => {
             state.selectedProductID = action.payload
         },
+        setFilters(state, action: PayloadAction<any>) {
+            state.filterPrice = {
+                ...state.filterPrice,
+                ...action.payload,
+            };
+        },
+        clearFilters(state) {
+            state.filterPrice = {
+                minPrice: null,
+                maxPrice: null,
+            };
+        },
     },
     extraReducers: (builder) => {
         builder
             .addCase(fetchProduct.pending, (state) => {
                 state.loading = true;
-                state.error = undefined;
+                state.error = undefined; 
             })
             .addCase(fetchProduct.fulfilled, (state, action: PayloadAction<Product[]>) => {
                 state.loading = false;
@@ -95,5 +115,5 @@ const productSlice = createSlice({
     },
 })
 
-export const { setProduct, setSearchKeyword, setSelectedProductID } = productSlice.actions;
+export const { setProduct, setSearchKeyword, setSelectedProductID, setFilters, clearFilters } = productSlice.actions;
 export default productSlice.reducer;
