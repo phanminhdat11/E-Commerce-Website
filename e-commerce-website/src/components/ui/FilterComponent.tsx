@@ -1,122 +1,114 @@
 "use client";
 
-import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import ButtonComponent from "@/components/ui/ButtonComponent";
+import DropDownComponent from "./DropdownOption";
+import { useProductFilterPrice } from "@/hook/pruducts/filters/useProductFilterPrice";
 
-export default function FilterComponent() {
-  const [priceFrom, setPriceFrom] = useState("0 VNĐ");
-  const [priceTo, setPriceTo] = useState("10 000 000 VNĐ");
 
-  const [ratingFrom, setRatingFrom] = useState("0 Sao");
-  const [ratingTo, setRatingTo] = useState("5 Sao");
-
-  const priceOptions = [
-    "0 VNĐ",
-    "500 000 VNĐ",
-    "1 000 000 VNĐ",
-    "5 000 000 VNĐ",
-    "10 000 000 VNĐ",
-  ];
-
-  const ratingOptions = ["0 Sao", "1 Sao", "2 Sao", "3 Sao", "4 Sao", "5 Sao"];
-
-  return (
-    <div className="w-full max-w-sm rounded-2xl border border-slate-200 bg-white shadow-xl">
-      <div className="border-b border-slate-200 px-5 py-4 text-center text-sm font-semibold uppercase tracking-[0.25em] text-slate-500">
-        Filter
-      </div>
-
-      <div className="space-y-6 p-4 sm:p-5">
-        <div className="space-y-3">
-          <h3 className="text-sm font-semibold text-slate-900">Giá</h3>
-
-          <SelectRow
-            label="Từ"
-            value={priceFrom}
-            options={priceOptions}
-            onChange={setPriceFrom}
-          />
-
-          <SelectRow
-            label="Đến"
-            value={priceTo}
-            options={priceOptions}
-            onChange={setPriceTo}
-          />
-        </div>
-
-        <div className="space-y-3">
-          <h3 className="text-sm font-semibold text-slate-900">Đánh giá</h3>
-
-          <SelectRow
-            label="Từ"
-            value={ratingFrom}
-            options={ratingOptions}
-            onChange={setRatingFrom}
-          />
-
-          <SelectRow
-            label="Đến"
-            value={ratingTo}
-            options={ratingOptions}
-            onChange={setRatingTo}
-          />
-        </div>
-      </div>
-    </div>
-  );
+type Props = {
+    onApply: (filters: { minPrice: number | null; maxPrice: number | null }) => void;
+    onClear: () => void
+    onClose: () => void
 }
+export default function FilterComponent({
+    onApply,
+    onClear,
+    onClose,
+}: Props) {
+    const priceOptions = [
+        { label: "1.000.000 VND", value: 1000000 },
+        { label: "2.000.000 VND", value: 2000000 },
+        { label: "3.000.000 VND", value: 3000000 },
+    ];
+    const menuOptionPrice = useProductFilterPrice().menuPropsOtionPrice;
+    const [minPrice, setMinPrice] = useState(0);
+    const [maxPrice, setMaxPrice] = useState(0);
 
-function SelectRow({
-  label,
-  value,
-  options,
-  onChange,
-}: {
-  label: string;
-  value: string;
-  options: string[];
-  onChange: (val: string) => void;
-}) {
-  const [open, setOpen] = useState(false);
+    const filteredMinOptions = priceOptions.filter(
+        (item) => !maxPrice || item.value <= maxPrice
+    );
 
-  return (
-    <div className="relative">
-      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
-        <span className="text-sm font-medium text-slate-600 sm:w-12">{label}</span>
+    const filteredMaxOptions = priceOptions.filter(
+        (item) => !minPrice || item.value >= minPrice
+    );
 
-        <button
-          type="button"
-          onClick={() => setOpen(!open)}
-          className="flex min-h-11 flex-1 items-center justify-between rounded-xl border border-slate-200 px-3 py-2 text-left text-sm text-slate-700 transition hover:bg-slate-50"
-          aria-expanded={open}
-        >
-          <span className="truncate">{value}</span>
-          <FontAwesomeIcon
-            icon={faChevronDown}
-            className={`ml-3 text-xs text-slate-400 transition ${open ? "rotate-180" : ""}`}
-          />
-        </button>
-      </div>
+    return (
+        <div className="w-96 bg-white border border-gray-100 rounded-lg shadow-2xl p-4 flex flex-col space-y-4">
 
-      {open && (
-        <div className="absolute left-0 right-0 top-full z-10 mt-2 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-lg sm:left-auto sm:w-[calc(100%-3.75rem)]">
-          {options.map((item) => (
-            <button
-              type="button"
-              key={item}
-              onClick={() => {
-                onChange(item);
-                setOpen(false);
-              }}
-              className="block w-full px-3 py-2 text-left text-sm text-slate-700 transition hover:bg-slate-100"
-            >
-              {item}
-            </button>
-          ))}
+            <p className="text-2xl text-center">Giá:</p>
+
+            <div className="flex items-center justify-between mt-2 gap-2">
+
+
+                <div>
+                    <p className="text-xs">Giá tối thiểu</p>
+                    <select
+                        className="px-3 py-3 border border-gray-200 rounded-lg"
+                        value={minPrice}
+                        onChange={(e) => {
+                            const value = Number(e.target.value);
+                            setMinPrice(value)
+                        }}
+                    >
+                        <option value="">Chọn giá</option>
+                        {filteredMinOptions.map((item) => (
+                            <option key={item.value} value={item.value}>
+                                {item.label}
+                            </option>
+                        ))}
+                    </select>
+                  
+                    {/* <DropDownComponent listMenu={menuOptionPrice} dataStudent={(e: any) => {
+                        const value = Number(e.target.value);
+                        setMinPrice(value);
+                    }} /> */}
+                </div>
+
+                <p>đến</p>
+
+
+                <div>
+                    <p className="text-xs">Giá tối đa</p>
+                    <select
+                        className="px-3 py-3 border border-gray-200 rounded-lg"
+                        value={maxPrice}
+                        onChange={(e) => setMaxPrice(Number(e.target.value))}
+                    >
+                        <option value="">Chọn giá</option>
+                        {filteredMaxOptions.map((item) => (
+                            <option key={item.value} value={item.value}>
+                                {item.label}
+                            </option>
+                        ))}
+                    </select>
+                </div>
+
+            </div>
+
+            <ButtonComponent
+                label={"Áp dụng"}
+                onClick={() => {
+                    onApply({
+                        minPrice: minPrice || null,
+                        maxPrice: maxPrice || null,
+                    });
+                }}
+
+
+            />
+
+            <ButtonComponent
+                label={"Xoá lọc"}
+                variant="secondary"
+                onClick={() => {
+                    setMinPrice(0);
+                    setMaxPrice(0);
+                    onClear && onClear();
+                    onClose && onClose();
+                }}
+            />
+
         </div>
-      )}
-    </div>
-  );
+    );
 }

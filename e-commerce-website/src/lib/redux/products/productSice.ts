@@ -1,51 +1,76 @@
 import { createAsyncThunk, createSlice, PayloadAction } from "@reduxjs/toolkit";
-
+import axios from "axios";
 
 export interface Product {
     id: string,
     name: string,
-    slug?: string,
-    description?: string,
-    categoryName?: string;
-    categoryId?: string,
-    tags?: string[],
-    images?: string[],
-    price?: number,
-    priceOriginal?: number,
-    discountPercentage?: number,
-    inStock: boolean;
-    stockQuanlity: number;
-    soldOut: number;
-    rating?: number;
-    reviewsCount?: number;
-    createAt?: string;
-    updateAt?: string;
-    metadata?: Record<string, any>;
+    sku: string,
+    brand: string,
+    price: number,
+    finalPrice: number,
+    image: string
 }
 
 export interface ProductState {
     listDataProduct: Product[],
+    selectedProductID: string | null
+    searchKeyword: string,
+    filterPrice: {
+        maxPrice: number | null,
+        minPrice: number | null,
+    }
     loading: boolean,
     error: string | undefined
-    searchKeyword: string
 }
 
 const initialState: ProductState = {
     listDataProduct: [],
+    selectedProductID: null,
+    searchKeyword: "",
+    filterPrice: {
+        maxPrice: null,
+        minPrice: null
+    },
     loading: false,
     error: undefined,
-    searchKeyword: ""
 }
+
+const url_data = process.env.NEXT_PUBLIC_API_URL;
 
 export const fetchProduct = createAsyncThunk(
     "product/fetchProduct",
+    async (_, { rejectWithValue }) => {
+        try {
+            const res = await axios.get(`${url_data}/api/products`);
+            const products = res.data.data.items;
 
-    async () => {
-        const url_data_product = "http://localhost:3000/api/product";
-        const res = await fetch(url_data_product);
-        return res.json();
+            const result = await Promise.all(
+                products.map(async (product: any) => {
+                    try {
+                        const resImg = await axios.get(
+                            `${url_data}/api/products/${product.id}/images`
+                        );
+                        const primaryImage = resImg.data.find(
+                            (img: any) => img.isPrimary
+                        );
+                        return {
+                            ...product,
+                            image: primaryImage?.imageUrl || null,
+                        };
+                    } catch {
+                        return {
+                            ...product,
+                            image: null,
+                        };
+                    }
+                })
+            );
+            return result;
+        } catch (error: any) {
+            return rejectWithValue(error.response?.data);
+        }
     }
-)
+);
 
 const productSlice = createSlice({
     name: 'product',
@@ -55,14 +80,29 @@ const productSlice = createSlice({
             state.listDataProduct = action.payload
         },
         setSearchKeyword: (state, action: PayloadAction<string>) => {
-            state.searchKeyword  = action.payload
-        }
+            state.searchKeyword = action.payload
+        },
+        setSelectedProductID: (state, action: PayloadAction<string>) => {
+            state.selectedProductID = action.payload
+        },
+        setFilters(state, action: PayloadAction<any>) {
+            state.filterPrice = {
+                ...state.filterPrice,
+                ...action.payload,
+            };
+        },
+        clearFilters(state) {
+            state.filterPrice = {
+                minPrice: null,
+                maxPrice: null,
+            };
+        },
     },
     extraReducers: (builder) => {
         builder
             .addCase(fetchProduct.pending, (state) => {
                 state.loading = true;
-                state.error = undefined;
+                state.error = undefined; 
             })
             .addCase(fetchProduct.fulfilled, (state, action: PayloadAction<Product[]>) => {
                 state.loading = false;
@@ -75,5 +115,5 @@ const productSlice = createSlice({
     },
 })
 
-export const { setProduct, setSearchKeyword } = productSlice.actions;
+export const { setProduct, setSearchKeyword, setSelectedProductID, setFilters, clearFilters } = productSlice.actions;
 export default productSlice.reducer;

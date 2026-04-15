@@ -40,7 +40,7 @@ export default function ButtonComponent({
             type={type}
             disabled={disabled}
             className={cn(
-                "inline-flex min-h-11 items-center justify-center rounded-xl px-4 py-3 text-sm font-medium transition active:scale-[0.98] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-60 sm:px-5 sm:text-base",
+                "inline-flex min-h-11 space-x-2 items-center justify-center rounded-xl px-4 py-3 text-sm font-medium transition active:scale-[0.98] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-60 sm:px-5 sm:text-base",
                 variantClasses[variant],
                 className,
             )}
