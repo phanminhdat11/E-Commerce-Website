@@ -22,6 +22,7 @@ import { selectFilteredProduct } from "@/lib/redux/products/productSelector";
 import { useHandleClickProduct } from "@/utils/slugify";
 import { useGetPathName } from "@/utils/getPathname";
 import FilterComponent from "@/components/ui/FilterComponent";
+import { ProductService } from "@/services/product/product.service";
 
 
 
@@ -32,32 +33,11 @@ export default function ShopPage() {
     const dispatch = useAppDispatch();
     const productState = useAppSelector((state) => state.products);
     const products = useAppSelector(selectFilteredProduct);
+    const productService = new ProductService();
 
     useEffect(() => {
-        dispatch(fetchProduct());
-
+      dispatch(fetchProduct());
     }, [dispatch]);
-
-    const dataOption = [
-        {
-            label: "1.000.000 VND", value: 1000000
-        },
-        {
-            label: "2.000.000 VND", value: 2000000
-        },
-        {
-            label: "3.000.000 VND", value: 3000000
-        }
-    ]
-    const [minPrice, setMinPrice] = useState(0);
-    const [maxPrice, setMaxPrice] = useState(0);
-
-    const filteredMinOptions = dataOption.filter(
-        (item) => !maxPrice || item.value <= maxPrice
-    );
-    const filteredMaxOptions = dataOption.filter(
-        (item) => !minPrice || item.value >= minPrice
-    );
 
     if (productState.loading) return <div className="flex items-center justify-center">
         <p>Loading...</p>
