@@ -9,7 +9,7 @@ type Props = {
     onClick: () => void
 }
 
-export default function ItemCardComponent({ product, onClick }: Props) {
+export default function ItemCardComponent({ product, onClick}: Props) {
 
     const hanldeConvertPriceToVND = (price: number) => {
         return new Intl.NumberFormat("vi-VN").format(price) + " VND"
@@ -60,13 +60,14 @@ export default function ItemCardComponent({ product, onClick }: Props) {
                         <span className="text-gray-400 sm:text-sm text-xs"><FontAwesomeIcon icon={faBuilding} className="mr-3" />
                             {product.brand}
                         </span>
-                        <span className="font-medium">{product.sku}</span>
+                        <span className="font-medium text-sm">{product.sku}</span>
                     </div>
 
                     <div className="mt-auto flex items-center justify-between gap-3 pt-1">
                         <div className="min-w-0 text-sm text-slate-600">
-                            <div className="flex items-center gap-2 text-amber-500">
+                            <div className="flex items-start gap-2 text-amber-500">
                                 <FontAwesomeIcon icon={faStar} className="text-sm" />
+                                <span className="font-medium text-slate-700">4.0</span>
                                 {/* <span className="font-medium text-slate-700">{product.rating}</span> */}
                             </div>
                             <span className="mt-1 block truncate text-xs text-gray-500">
@@ -86,7 +87,16 @@ export default function ItemCardComponent({ product, onClick }: Props) {
                         >
                             <FontAwesomeIcon icon={faCartArrowDown} className="text-sm" />
                         </button> */}
-                        <IconButton value={0} variant="primary" ariaLabel={"Thêm vào giỏ hàng"} icon={faCartArrowDown} />
+                        <IconButton
+                            onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                console.log("Add to cart");
+                            }}
+                            value={0}
+                            variant="primary"
+                            ariaLabel={"Thêm vào giỏ hàng"}
+                            icon={faCartArrowDown} />
                     </div>
                 </div>
             </div>

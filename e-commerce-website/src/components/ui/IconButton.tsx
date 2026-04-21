@@ -6,7 +6,7 @@ export type IconButtonVariant = "primary" | "secondary" | "danger" | "outline";
 type Props = {
   ariaLabel: string;
   icon: IconProp;
-  onClick?: () => void;
+  onClick?: (e: any) => void;
   variant?: IconButtonVariant;
   value?: number;
   className?: string;

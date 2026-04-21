@@ -16,98 +16,78 @@ export default function FilterComponent({
     onClear,
     onClose,
 }: Props) {
-    const priceOptions = [
-        { label: "1.000.000 VND", value: 1000000 },
-        { label: "2.000.000 VND", value: 2000000 },
-        { label: "3.000.000 VND", value: 3000000 },
-    ];
-    const menuOptionPrice = useProductFilterPrice().menuPropsOtionPrice;
+
     const [minPrice, setMinPrice] = useState(0);
     const [maxPrice, setMaxPrice] = useState(0);
-
-    const filteredMinOptions = priceOptions.filter(
-        (item) => !maxPrice || item.value <= maxPrice
-    );
-
-    const filteredMaxOptions = priceOptions.filter(
-        (item) => !minPrice || item.value >= minPrice
-    );
+    const [labelMinPrice, setLabelMinPrice] = useState("Chọn giá");
+    const [labelMaxPrice, setLabelMaxPrice] = useState("Chọn giá");
+    const { menuMinPrice, menuMaxPrice } = useProductFilterPrice(minPrice, maxPrice)
 
     return (
-        <div className="w-96 bg-white border border-gray-100 rounded-lg shadow-2xl p-4 flex flex-col space-y-4">
+        <div className="w-96 bg-white border border-gray-100 rounded-lg shadow-2xl p-4 flex flex-col space-y-4 overflow-hidden">
 
             <p className="text-2xl text-center">Giá:</p>
 
-            <div className="flex items-center justify-between mt-2 gap-2">
-
-
+            <div className="flex items-center justify-between mt-2 gap-2 ">
                 <div>
                     <p className="text-xs">Giá tối thiểu</p>
-                    <select
-                        className="px-3 py-3 border border-gray-200 rounded-lg"
-                        value={minPrice}
-                        onChange={(e) => {
-                            const value = Number(e.target.value);
-                            setMinPrice(value)
+                    <DropDownComponent
+                        listMenu={menuMinPrice}
+                        label={labelMinPrice}
+                        dataStudent={(e: any) => {
+                            const value = Number(e.key);
+                            setMinPrice(value);
+
+                            const item = menuMinPrice.items.find(i => i.key == e.key);
+                            setLabelMinPrice(item?.label || "Chọn giá");
                         }}
-                    >
-                        <option value="">Chọn giá</option>
-                        {filteredMinOptions.map((item) => (
-                            <option key={item.value} value={item.value}>
-                                {item.label}
-                            </option>
-                        ))}
-                    </select>
-                  
-                    {/* <DropDownComponent listMenu={menuOptionPrice} dataStudent={(e: any) => {
-                        const value = Number(e.target.value);
-                        setMinPrice(value);
-                    }} /> */}
+                    />
+
                 </div>
 
                 <p>đến</p>
 
-
                 <div>
                     <p className="text-xs">Giá tối đa</p>
-                    <select
-                        className="px-3 py-3 border border-gray-200 rounded-lg"
-                        value={maxPrice}
-                        onChange={(e) => setMaxPrice(Number(e.target.value))}
-                    >
-                        <option value="">Chọn giá</option>
-                        {filteredMaxOptions.map((item) => (
-                            <option key={item.value} value={item.value}>
-                                {item.label}
-                            </option>
-                        ))}
-                    </select>
-                </div>
+                    <DropDownComponent
+                        listMenu={menuMaxPrice}
+                        label={labelMaxPrice}
+                        dataStudent={(e: any) => {
+                            const value = Number(e.key);
+                            setMaxPrice(value);
+                            const item = menuMaxPrice.items.find(i => i.key == e.key);
+                            setLabelMaxPrice(item?.label || "Chọn giá");
+                        }}
+                    />
 
+                </div>
             </div>
 
-            <ButtonComponent
-                label={"Áp dụng"}
-                onClick={() => {
-                    onApply({
-                        minPrice: minPrice || null,
-                        maxPrice: maxPrice || null,
-                    });
-                }}
+            <div className="flex justify-between space-x-4">
 
+                <ButtonComponent
+                    className="w-1/2"
+                    label={"Áp dụng"}
+                    onClick={() => {
+                        onApply({
+                            minPrice: minPrice || null,
+                            maxPrice: maxPrice || null,
+                        });
+                    }}
+                />
+                <ButtonComponent
+                className="w-1/2"
+                    label={"Xoá lọc"}
+                    variant="secondary"
+                    onClick={() => {
+                        setMinPrice(0);
+                        setMaxPrice(0);
+                        onClear && onClear();
+                        onClose && onClose();
+                    }}
+                />
 
-            />
-
-            <ButtonComponent
-                label={"Xoá lọc"}
-                variant="secondary"
-                onClick={() => {
-                    setMinPrice(0);
-                    setMaxPrice(0);
-                    onClear && onClear();
-                    onClose && onClose();
-                }}
-            />
+            </div>
 
         </div>
     );
