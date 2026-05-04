@@ -12,6 +12,7 @@ import { faCartArrowDown } from "@fortawesome/free-solid-svg-icons/faCartArrowDo
 import Link from "next/link";
 import { redirect, useRouter } from "next/navigation";
 import IconButton from "../ui/IconButton";
+import { useAppSelector } from "@/lib/redux/hook";
 
 const avatarUrl =
     "https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg?semt=ais_hybrid&w=740&q=80";
@@ -22,6 +23,16 @@ export default function Navbar() {
     const redirectShopPage = () => {
         router.push("/shop");
     };
+    const redirectCartPage = () => {
+        router.push('/cart')
+    }
+
+    const { items, loading } = useAppSelector(
+        (state: any) => state.cart
+    );
+
+
+
 
     return (
         <nav className="h-16 md:h-20">
@@ -45,7 +56,7 @@ export default function Navbar() {
                     </span>
                 </button>
                 <div className="flex items-center gap-2 sm:gap-3 md:gap-4">
-                    <IconButton value={4} variant="secondary" ariaLabel={"Giỏ hàng"} icon={faCartArrowDown} />
+                    <IconButton value={items.length} onClick={redirectCartPage} variant="secondary" ariaLabel={"Giỏ hàng"} icon={faCartArrowDown} />
                     <IconButton value={0} variant="outline" ariaLabel={"Thông báo"} icon={faBell} />
                     <IconButton value={0} variant="danger" ariaLabel={"Tin nhắn"} icon={faMessage} />
                     <Link

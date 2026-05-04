@@ -6,6 +6,9 @@ import Sidebar from "@/components/layouts/Sidebar";
 import Footer from "@/components/layouts/Footter";
 import { Provider } from "react-redux";
 import { store } from "@/lib/redux/store";
+import { fetchCart } from "@/lib/redux/cart/cartSlice";
+import { useEffect } from "react";
+import { useAppDispatch } from "@/lib/redux/hook";
 
 const leagueSpartan = League_Spartan({
   subsets: ["latin"],
@@ -18,6 +21,7 @@ export default function ReduxProvider({
 }: {
   children: React.ReactNode;
 }) {
+
   return (
     <html lang="en">
       <body className={`${leagueSpartan.className} min-h-screen text-black`}>
@@ -26,9 +30,9 @@ export default function ReduxProvider({
             <Navbar />
           </header>
           <div className="pt-16 md:pt-20">
-           <div className="">
-             <Sidebar />
-           </div>
+            <div className="">
+              <Sidebar />
+            </div>
             <main className="min-h-[calc(100vh-4rem)] px-4 py-4 sm:px-5 md:ml-20 md:min-h-[calc(100vh-5rem)] md:px-6 md:py-6 lg:ml-72 lg:px-8">
               {children}
             </main>
