@@ -1,7 +1,7 @@
 "use client";
 
-import ItemCardComponent from "@/components/ui/ItemCartComponent";
-import { Breadcrumb, Button, Dropdown } from "antd";
+import ItemCardComponent from "@/components/ui/ItemProductComponent";
+import { Breadcrumb, Button, Dropdown, message } from "antd";
 import { DownOutlined, HomeOutlined } from "@ant-design/icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFilter, faXmark } from "@fortawesome/free-solid-svg-icons";
@@ -9,20 +9,22 @@ import SearchBoxComponent from "@/components/ui/SearchBoxComponent";
 import { useEffect, useState } from "react";
 import ButtonComponent from "@/components/ui/ButtonComponent";
 import {
+
     clearFilters,
     fetchProduct,
+    fetchProductError,
+    fetchProductSuccess,
     setFilters,
     setSearchKeyword,
-    setSelectedProductID,
 
-
-} from "@/lib/redux/products/productSice";
+} from "@/lib/redux/products/productSlice";
 import { useAppDispatch, useAppSelector } from "@/lib/redux/hook";
 import { selectFilteredProduct } from "@/lib/redux/products/productSelector";
 import { useHandleClickProduct } from "@/utils/slugify";
 import { useGetPathName } from "@/utils/getPathname";
 import FilterComponent from "@/components/ui/FilterComponent";
-import { ProductService } from "@/services/product/product.service";
+import { addToCart, fetchCart } from "@/lib/redux/cart/cartSlice";
+import ItemProductComponent from "@/components/ui/ItemProductComponent";
 
 
 
@@ -33,16 +35,21 @@ export default function ShopPage() {
     const dispatch = useAppDispatch();
     const productState = useAppSelector((state) => state.products);
     const products = useAppSelector(selectFilteredProduct);
-    const productService = new ProductService();
 
     useEffect(() => {
-      dispatch(fetchProduct());
+        dispatch(fetchProduct());
     }, [dispatch]);
+
+
+    useEffect(() => {
+        dispatch(fetchCart());
+    }, [dispatch]);
+
 
     if (productState.loading) return <div className="flex items-center justify-center">
         <p>Loading...</p>
     </div>;
-    if (productState.error) return <p>Error: {productState.error}</p>;
+    if (productState.error) return <p className="flex items-center justify-center">Thông báo: {productState.error} </p>;
     return (
         <>
             <div className="relative left-1/2 w-[calc(100vw-2rem)] max-w-[1720px] -translate-x-1/2 space-y-6 pb-20 md:w-[calc(100vw-8rem)] md:pb-6 lg:w-[calc(100vw-21rem)] 2xl:w-[calc(100vw-23rem)]">
@@ -94,10 +101,18 @@ export default function ShopPage() {
 
                     {
                         products.map((product: any, index: any) => (
-                            <ItemCardComponent
+                            <ItemProductComponent
                                 key={index}
                                 product={product}
-                                onClick={() => handleClickProduct(product)}
+                                onClick={() => handleClickProduct({ productId: product.id, name: product.name })}
+                                onAddToCart={() =>
+                                    dispatch(
+                                        addToCart({
+                                            productId: product.id,
+                                            quantity: 1,
+                                        })
+                                    )
+                                }
                             />
                         ))
                     }

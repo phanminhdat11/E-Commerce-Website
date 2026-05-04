@@ -1,24 +1,21 @@
-import { Product } from "@/lib/redux/products/productSice";
+import { Product, ProductDetail } from "@/lib/redux/products/productSlice";
 import { faBuilding, faCartArrowDown, faLocation, faStar } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import IconButton from "./IconButton";
+import { useFortmatPriceToVND } from "@/utils/fortmatPricetoVND";
 
 
 type Props = {
-    product: Product
+    product: ProductDetail
     onClick: () => void
+    onAddToCart: () => void
 }
 
-export default function ItemCardComponent({ product, onClick}: Props) {
+export default function ItemProductComponent({ product, onClick, onAddToCart}: Props) {
 
-    const hanldeConvertPriceToVND = (price: number) => {
-        return new Intl.NumberFormat("vi-VN").format(price) + " VND"
-    }
-    const hanldePercentDisoucnt = (price: number, filnalPrice: number) => {
-        const percent = ((price - filnalPrice) / price) * 100
-        return percent;
-    }
 
+    const hanldeConvertPriceToVND = useFortmatPriceToVND().handleConvertPriceToVND;
+    const handlePercentDiscount = useFortmatPriceToVND().handlePercentDisoucnt;
 
     return (
         <div onClick={onClick} className="group block h-full">
@@ -26,7 +23,7 @@ export default function ItemCardComponent({ product, onClick}: Props) {
                 <div className="flex aspect-[4/3] items-center justify-center bg-slate-50 p-4 sm:p-5">
                     <img
                         className="h-full max-h-48 w-full  object-fill"
-                        src={product.image ?? "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/xiaomi_redmi_13x_xanh_5_2f17e30bdd.png"}
+                        src={product.images ?? "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/xiaomi_redmi_13x_xanh_5_2f17e30bdd.png"}
                         onError={(e) => {
                             e.currentTarget.src =
                                 "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/xiaomi_redmi_13x_xanh_5_2f17e30bdd.png";
@@ -34,7 +31,6 @@ export default function ItemCardComponent({ product, onClick}: Props) {
                         alt={product.name}
                     />
                 </div>
-
                 <div className="flex flex-1 flex-col gap-3 p-4">
                     <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
                         <span className="text-lg font-semibold text-orange-700 sm:text-xl">
@@ -48,11 +44,10 @@ export default function ItemCardComponent({ product, onClick}: Props) {
                         </span>
                         <span className="text-orange-600 font-medium text-xm p-1 bg-gray-100 rounded-lg">
                             {
-                                hanldePercentDisoucnt(product.price, product.finalPrice) > 0 ? `-${hanldePercentDisoucnt(product.price, product.finalPrice)}%` : ''
+                                handlePercentDiscount(product.price, product.finalPrice) > 0 ? `-${handlePercentDiscount(product.price, product.finalPrice)}%` : ''
                             }
                         </span>
                     </div>
-
                     <h3 className="line-clamp-2 text-sm leading-6 text-gray-800 sm:text-xl font-medium">
                         {product.name}
                     </h3>
@@ -74,25 +69,14 @@ export default function ItemCardComponent({ product, onClick}: Props) {
                                 {/* {product.soldOut > 0 ? product.soldOut + ' Đã bán' : ''} */}
                             </span>
                         </div>
-                        {/* 
-                        <button
-                            type="button"
-                            onClick={(e) => {
-                                e.preventDefault();
-                                e.stopPropagation();
-                                console.log("Add to cart");
-                            }}
-                            className="flex h-10 w-10 flex-none items-center justify-center rounded-full bg-orange-500 text-white transition active:scale-95 group-hover:bg-orange-600 sm:h-11 sm:w-11"
-                            aria-label="Add item to cart"
-                        >
-                            <FontAwesomeIcon icon={faCartArrowDown} className="text-sm" />
-                        </button> */}
+                        
                         <IconButton
                             onClick={(e) => {
                                 e.preventDefault();
                                 e.stopPropagation();
-                                console.log("Add to cart");
+                                onAddToCart()
                             }}
+                            
                             value={0}
                             variant="primary"
                             ariaLabel={"Thêm vào giỏ hàng"}
